@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.home.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_homeFragment_to_startQuizFragment"
+            app:destination="@id/startQuizFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_libraryFragment"
+            app:destination="@id/libraryFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_syllabusFragment"
+            app:destination="@id/syllabusFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/startQuizFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.startquiz.StartQuizFragment"
+        android:label="Parameter"
+        tools:layout="@layout/fragment_start_quiz">
+        <argument
+            android:name="startArgs"
+            android:defaultValue="@null"
+            app:argType="com.myrabohuche.exampractice.model.Exam"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_startQuizFragment_to_quizFragment"
+            app:destination="@id/quizFragment" />
+        <action
+            android:id="@+id/action_startQuizFragment_to_authenticationFragment"
+            app:destination="@id/authenticationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.quiz.QuizFragment"
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz">
+        <argument
+            android:name="subArgs"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="quesArgs"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="timeArgs"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="schoolArgs"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="suffixArgs"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/authenticationFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.auth.AuthenticationFragment"
+        android:label="Request Product Key" />
+    <fragment
+        android:id="@+id/libraryFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.library.LibraryFragment"
+        android:label="library_fragment"
+        tools:layout="@layout/library_fragment" >
+        <action
+            android:id="@+id/action_libraryFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.bookdetails.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" >
+        <argument
+            android:name="booksArgs"
+            app:argType="com.myrabohuche.exampractice.model.Book"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/syllabusFragment"
+        android:name="com.myrabohuche.exampractice.ui.fragment.syllabus.SyllabusFragment"
+        android:label="syllabus_fragment"
+        tools:layout="@layout/syllabus_fragment" />
+</navigation>
