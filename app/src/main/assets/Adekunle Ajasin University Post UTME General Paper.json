@@ -1,0 +1,475 @@
+[
+  {
+    "question": "<p><strong>The current life expectancy in Nigeria is<\/strong><\/p>",
+    "options": [
+      "55",
+      "47",
+      "39",
+      "45"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Yumu and Zabara are ethnic groups in&nbsp;<\/strong><\/p>",
+    "options": [
+      "Kebbi State",
+      "Benue State",
+      "Niger state",
+      "Kano state"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Mr Dele Giwa was killed through a letter bomb on<\/strong><\/p>",
+    "options": [
+      "October 19, 1986",
+      "September 17, 1987",
+      "October 19, 1986",
+      "September 17, 1986"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The following are spices except<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Rye",
+      "Saffron",
+      "Ginger",
+      "Cloves"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Desmond Tutu was awarded the Nobel Peace Prize in<\/strong><\/p>",
+    "options": [
+      "1983",
+      "1987",
+      "2001",
+      "1984"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Victoria is the capital city of<\/strong><\/p>",
+    "options": [
+      "Somalia",
+      "Morocco",
+      "Seychelles",
+      "Burundi"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Director-General of the Nigerian Institute of Advanced Legal Studies is<\/strong><\/p>",
+    "options": [
+      "Prof. Pat Utomi",
+      "Prof. Epiphany Azinge",
+      "Justice Nikki Tobi",
+      "Prof. (Mrs) Bolanle Awe"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Centre of Unity is to Abuja as State of Hospitality is to<\/strong><\/p>",
+    "options": [
+      "Rivers",
+      "Cross River",
+      "Sokoto",
+      "Nassarawa"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The capital of Uruguay is<\/strong><br \/><strong>&nbsp;<\/strong><\/p>",
+    "options": [
+      "Bangkok",
+      "Montevideo",
+      "Bern",
+      "Manila"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Governor of Anambra State is<\/strong><\/p>",
+    "options": [
+      "Mr. Peter Obi",
+      "Owelle Rochas Okorocha",
+      "Peter Odili",
+      "Chris Ngige"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>____ was the Chief Justice of Nigeria between 1995 and 2006<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Justice Idris Lagbo Kutigi",
+      "Justice Mohammad Lawal Uwais",
+      "Justice George Sodeinde Sowemimo",
+      "Justice Salihu Modibo Alfa Belgore"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The current Secretary-General of the United Nations is from<\/strong><\/p>",
+    "options": [
+      "United Kingdom",
+      "South Korea",
+      "Ghana",
+      "South Africa"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The capital of Iran is<\/strong><\/p>",
+    "options": [
+      "Iranian",
+      "Dublin",
+      "Baghdad",
+      "Teheran"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The full meaning of UEFA is<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Union of European Federation Associations",
+      "United European Football Associations",
+      "Union of European Football Associations",
+      "United English Football Associations"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Nelson Mandela was awarded the Nobel Peace Prize in<\/strong><\/p>",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Ibeno Beach is in<\/strong><\/p>",
+    "options": [
+      "Lagos State",
+      "Cross River State",
+      "Akwa Ibom State",
+      "Taraba State"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The June 12 Presidential election was annulled by President Ibrahim Babangida on<\/strong><\/p>",
+    "options": [
+      "June 12 1993",
+      "June 14 1993",
+      "June 18 1993",
+      "June 23 1993"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Gombe State belongs to the ____ geo-political zone in Nigeria<\/strong><\/p>",
+    "options": [
+      "South East",
+      "South West",
+      "North Central",
+      "North Eest"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The full meaning of OECD is<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Organization for Economic Co-operation and Development",
+      "Organization of Economic Co-operation and Development",
+      "Organization of Economic Community and Development\u00a0",
+      "Organization for Economic Community and Development"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Paparada Square is in<\/strong><\/p>",
+    "options": [
+      "Ilorin",
+      "Lokoja",
+      "Kaduna",
+      "Lagos"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on<\/strong><\/p>",
+    "options": [
+      "May 30, 1967",
+      "June 15, 1966",
+      "April 6, 1968",
+      "January 10, 1965"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Kruger National Park is in<\/strong><\/p>",
+    "options": [
+      "South Africa",
+      "Tunisia",
+      "Cameroon",
+      "Poland"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The official residence of the Secretary-General of the United Nations is in<\/strong><\/p>",
+    "options": [
+      "Washington D.C. United States",
+      "New York City, United States",
+      "Birmingham, United Kingdom",
+      "Atlanta Georgia, United States"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Dar es Salaam is the capital of<\/strong><br \/><br \/><br \/><\/p>",
+    "options": [
+      "Tunisia",
+      "Turkey",
+      "Zimbabwe",
+      "Tanzania"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Shanga and Kyenga are ethnic groups in<\/strong><\/p>",
+    "options": [
+      "Sokoto State",
+      "Bauchi State",
+      "Niger State",
+      "Kwara State"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>FESTAC started in<\/strong><\/p>",
+    "options": [
+      "October 1976",
+      "October 1978",
+      "November 1977",
+      "November 1978"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of these was never a Senate President in Nigeria?<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Iyocha Ayu",
+      "Chuba Okadigbo",
+      "Pius Anyim",
+      "Umaru Dikko"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The United Nations Charter was formed on<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "1 February 1946",
+      "26 June 1945",
+      "24 October 1945",
+      "15 March 1943"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Abayon, Adim and Adun are ethnic groups in<\/strong><\/p>",
+    "options": [
+      "Taraba State",
+      "Cross River State",
+      "Bauchi State",
+      "Adamawa State"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Barack Obama was awarded the Nobel Peace Prize in<\/strong><\/p>",
+    "options": [
+      "2000",
+      "2003",
+      "2007",
+      "2009"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The capital of Greece is<\/strong><\/p>",
+    "options": [
+      "Greek",
+      "Athens",
+      "Rome",
+      "Jerusalem"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Assop Falls can be found in<\/strong><\/p>",
+    "options": [
+      "Plateau State",
+      "Kano State",
+      "Taraba State",
+      "Niger State"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Secretary-General of the United Nations between 1972 and 1981 was<\/strong><br \/><br \/><\/p>",
+    "options": [
+      "Javier Perez de Cuellar",
+      "Alger Hiss",
+      "Kofi Annan",
+      "Kurt Waldheim"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Ken Saro-Wiwa and eight others were executed in<\/strong><\/p>",
+    "options": [
+      "1994",
+      "1995",
+      "1996",
+      "1997"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Albert Lutuli was awarded the Nobel Peace Prize in<\/strong><\/p>",
+    "options": [
+      "1960",
+      "1970",
+      "1947",
+      "1909"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Ronald Reagan, the former US President, was a<\/strong><\/p>",
+    "options": [
+      "Democrat",
+      "Republican",
+      "Federalist",
+      "Democratic-Republican"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Gurara Falls can be located in<\/strong><\/p>",
+    "options": [
+      "Niger State",
+      "Imo State",
+      "Edo State",
+      "Adamawa State"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Obudu Cattle Ranch is in<\/strong><\/p>",
+    "options": [
+      "Rivers State",
+      "Cross River State",
+      "Bayelsa State",
+      "Delta State"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Alau Dam and Alan Lake are located in<\/strong><\/p>",
+    "options": [
+      "Calabar",
+      "Warri",
+      "Maiduguri",
+      "Ebonyi"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The National Security Adviser is<\/strong><\/p>",
+    "options": [
+      "Gen. Andrew Owoeye Azazi (rtd)",
+      "Col. Sambo Dasuki",
+      "Gen. Aliyu Mohammed Gusau",
+      "Col. Kayode Are"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Maseru is the capital city of<\/strong><\/p>",
+    "options": [
+      "Mauritius",
+      "Rwanda",
+      "Lesotho",
+      "Tunisia"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Inspector-General of Police is<\/strong><br \/><br \/><br \/><br \/><\/p>",
+    "options": [
+      "Mr Iyami Aganike",
+      "Alhaji Mohammed Dahiru Abubakar",
+      "Mr Tafa Balogun",
+      "Mr Muhammed Katsina"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The Minster of Health is<\/strong><\/p>",
+    "options": [
+      "Prof. Olikoye Ransome Kuti",
+      "Prof. C.O.Onyebuchi",
+      "Prof. Babatunde Osotimehin",
+      "Dr (Mrs) Grange Alice"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  }
+]

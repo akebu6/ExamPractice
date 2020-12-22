@@ -38,6 +38,13 @@ xmlns:tools="http://schemas.android.com/tools">
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:textSize="15dp"
+                android:text="Enter the below info to request for product key."/>
+
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
@@ -90,7 +97,7 @@ xmlns:tools="http://schemas.android.com/tools">
                 android:layout_width="155dp"
                 android:layout_height="55dp"
                 android:layout_marginTop="64dp"
-                android:text="register"
+                android:text="Send"
                 android:fontFamily="@font/graphiksemibold"
                 android:textAlignment="center"
                 android:textAllCaps="false"

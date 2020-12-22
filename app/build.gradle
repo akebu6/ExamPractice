@@ -92,4 +92,6 @@ dependencies {
 
     implementation 'androidx.multidex:multidex:2.0.1'
 
+    implementation 'in.hourglass.mathrender:katexmathview:1.0.3'
+
 }

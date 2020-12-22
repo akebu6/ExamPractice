@@ -1,0 +1,1950 @@
+[
+  {
+    "question": "<p><strong>If the distance between a 13-foot ladder and a vertical wall is 5 feet along the ground, how high can a person climb if the ladder is inclined against the wall?<\/strong><\/p>",
+    "options": [
+      "18 feet",
+      "13 feet",
+      "8 feet",
+      "12 feet"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>What is the length of an arc of a circle with a radius of 5 if it subtends an angle of 60 at the center?<\/b><\/p>",
+    "options": [
+      "3.14",
+      "5.24",
+      "2.62",
+      "4.85"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The value of k so that the sequence k -1, k + 3, 3k -1 forms an arithmetic progression is . . .?<\/b><\/p>",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Given the list of numbers {1,6,3,9,16,11,2,9,5,7,12,13,8}, what is the median?<\/strong><\/p>",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>What is the slope of the line that is perpendicular to y - 2x = 1?<\/strong><\/p>",
+    "options": [
+      "2",
+      "-2",
+      "-1",
+      "1"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The capacity in liters of bucket 24cm in diameter at the top, 16cm in diameter at the bottom and 20cm deep is<\/strong><\/p>",
+    "options": [
+      "9.15",
+      "2.78",
+      "6.08",
+      "6.37"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The area in cm<sup>2<\/sup> of material required for a lampshade in the form of a frustum of a cone which top and bottom diameters are 20cm and 30cm respectively, and the vertical height is 12cm is<\/strong><\/p>",
+    "options": [
+      "1024",
+      "7200",
+      "3600",
+      "2400"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A frustum  of a pyramid is 3cm square at the top and 6cm square at the bottom and is 5cm <\/strong><\/p>",
+    "options": [
+      "150",
+      "105",
+      "115",
+      "151"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><span style=\"line-height: 115%;\"><b>If x = 2, then (x - 1)(2x - 3) =<\/b><\/span><\/p>",
+    "options": [
+      "1",
+      "3",
+      "-1",
+      "-3"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Given that the value of sec u = 1.414, find the value of sin u?<\/b><br><\/p>",
+    "options": [
+      "0.5",
+      "0.71",
+      "0.86",
+      "0.69"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><span style=\"line-height: 115%;\"><b>If (2x - y) = 4 then (6x \u2013 3y) =&nbsp;<\/b><\/span><\/p>",
+    "options": [
+      "15",
+      "12",
+      "18",
+      "10"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong><span style=\"font-size: 11pt; line-height: 115%; font-family: Calibri, sans-serif;\">The probability of getting number greater than 4 in a single&nbsp; throw of a die is<\/span><\/strong><\/p>",
+    "options": [
+      "1\u20442",
+      "1\u20446",
+      "1\u20444",
+      "1\u20443"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>After allowing a discount of 11.11%, a trader still makes a gain of 14.28%. At what percentage of interest does the trader mark his goods?<\/strong><\/p>",
+    "options": [
+      "28.5%",
+      "22.22%",
+      "20%",
+      "None"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The population of a town was 160,000 three years ago. If it increased by 3%, 2.5% and 5% respectively in the last three years, then the present population of the town is<\/b><\/p>",
+    "options": [
+      "177,000",
+      "177,366",
+      "177,461",
+      "177,596",
+      "177,564"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong><span style=\"font-size: 11pt; line-height: 115%; font-family: Cambria, serif;\">Convert 3.1415926 to 5 decimal places<\/span><\/strong><\/p>",
+    "options": [
+      "0.0314159",
+      "3.14159",
+      "0.31415",
+      "3.14200"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find a positive value of p is the expression 2x<sup>2<\/sup> &ndash; PX + p leaves a remainder 6 when divided by x &ndash;p<\/strong><\/p>",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Factorize completely The expression <\/strong><span style=\"font-weight: bolder; font-size: 0.875rem;\">abx<\/span><sup style=\"font-weight: bolder; font-size: 10.5px;\">2<\/sup><span style=\"font-weight: bolder; font-size: 0.875rem;\">&nbsp;<\/span><span style=\"font-weight: bolder; font-size: 0.875rem;\">+ 6y+ 3ax- 2byx<\/span><\/p>",
+    "options": [
+      "(ax-2y)(bx -3)",
+      "(bx+ 3)",
+      "(bx+3)(ax-2y)",
+      "(ax-2y(ax-b)"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Solve the following inequality (X-3)(X-4)&le;0<\/strong><\/p>",
+    "options": [
+      "3 \u2264 X \u2264 4",
+      "3 < X < 4",
+      "3 \u2264 X < 4",
+      "3 < X \u2264 4"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The 4th term of an A.P is 13 while the 10th term is 31. Find the 21st term<\/strong><\/p>",
+    "options": [
+      "175",
+      "4",
+      "64",
+      "45"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find to infinity, the sum of the sequence 1, <sup>9<\/sup>\/<sub>10<\/sub>, (<sup>9<\/sup>\/<sub>10<\/sub>)<sup>2<\/sup>, (<sup>9<\/sup>\/<sub>10<\/sub>)<sup>3<\/sup>,...<\/strong><\/p>",
+    "options": [
+      "<sup>1<\/sup>\/<sub>10<\/sub>",
+      "<sup>9<\/sup>\/<sub>10<\/sub>",
+      "<sup>10<\/sup>\/<sub>9<\/sub>",
+      "10"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the distance between two town P(45<sup>0<\/sup>N 30<sup>0<\/sup>W) and Q(15<sup>0<\/sup>S, 3<sup>0<\/sup>W)&nbsp; if the radius of the earth is 7000km. (\u03c0 =22\/7<\/strong><\/p>",
+    "options": [
+      "1100\/3 Km",
+      "220\/3 Km",
+      "22000\/3 Km",
+      "11000\/3 Km"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Two perpendicular lines PQ and QR intersect at (1, -1), if the equation of Q is x - 2y + 4 = 0 find the equation of QR. <\/strong><\/p>",
+    "options": [
+      "x - 2 + 1 = 0",
+      "2x +  y + 3 = 0",
+      "x - 2y - 3 = 0",
+      "2x + y - 1 = 0"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong><span style=\"font-size: 11pt; line-height: 115%; font-family: Cambria, serif;\">The derivation of cosec X is<\/span><\/strong><\/p>",
+    "options": [
+      "Tan x cosec x",
+      "Cot x cosec x",
+      "tan x sec x",
+      "cot x sec"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>For what value of x is the tangent to the curve y=x<sup>2<\/sup> - 4x + 3 parallel to the axis?<\/strong><\/p>",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong><span style=\"font-size: 11pt; line-height: 115%; font-family: Cambria, serif;\">Two variables x and y&nbsp; are such that dy\/dx =4x-3 and y=5 when x=2.find y in terms of x.<\/span><\/strong><\/p>",
+    "options": [
+      "y = 2x<sup>2<\/sup> + 3x - 3",
+      "y = 2x<sup>2<\/sup> - 3x - 3",
+      "y = 2x<sup>2<\/sup> + 3x + 3",
+      "y = 2x<sup>2<\/sup> - 3x + 3"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the area bounded by the curve y = 3x<sup>2<\/sup>- 2x + 1,the ordinates x = 1 and x = 3 and the x- axis<\/strong><\/p>",
+    "options": [
+      "23",
+      "22",
+      "21",
+      "20"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The mean and the range of the set of number 1.20,1.00,0.90,1.40,0.80,1.20, and 1.10 are m and r respectively. Find m+r<\/strong><\/p>",
+    "options": [
+      "1.11",
+      "1.65",
+      "1.85",
+      "2.45"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Without using table,<\/strong><\/p><p><strong>Evaluate (243)<sup>1\/5<\/sup>&nbsp;X (0.09)<sup>-1<\/sup> X 125<sup>-2\/3<\/sup><\/strong><\/p>",
+    "options": [
+      "<sup>3<\/sup>\/<sub>4<\/sub>",
+      "4",
+      "<sup>4<\/sup>\/<sub>3<\/sub>",
+      "3"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Three consecutive positive integers a,b and c are such that b<sup>2<\/sup> = 4(a+c). Find the Value of c<\/strong><\/p>",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "5"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the principal amount to N4,400 at simple interest in 5Years at 2% per annum<\/strong><\/p>",
+    "options": [
+      "N3,800",
+      "N4,000",
+      "N3,600",
+      "N5,000"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>At the value of x do the curves whose equation are y = x<sup>3<\/sup> + x and y = x<sup>2<\/sup> + 1 intersect?<\/strong><\/p>",
+    "options": [
+      "-2",
+      "-1",
+      "1",
+      "0"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If the surface area of a Sphere is increased &nbsp;by 40% Find the percentage increase in the diameter<\/strong><\/p>",
+    "options": [
+      "44",
+      "30",
+      "22",
+      "20"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If M represent the median and D the mode of the measurements 5,9,3,5,8,then (M,D) is<\/strong><\/p>",
+    "options": [
+      "(6,5)",
+      "(5,8)",
+      "(5,7)",
+      "(5,5)"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the missing term in series 3, 7, 18, 26, 37, 53, _, 96<\/strong><\/p>",
+    "options": [
+      "43",
+      "65",
+      "64",
+      "69"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If r varies directly as and as s and if r = 3 when &nbsp;s = 8 find r when s = 12<\/strong><\/p>",
+    "options": [
+      "4 1\/2",
+      "5",
+      "6",
+      "7 1\/2"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If the sum of the 8th and 9th terms of an arithmetic progression is 72 and the 4th term is -6, find the common difference<\/strong><\/p>",
+    "options": [
+      "4",
+      "8",
+      "6 2\/3",
+      "9 1\/3"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Solve the equation (x + 7)<sup>1\/2<\/sup> = (x - 5)<\/strong><\/p>",
+    "options": [
+      "5,9",
+      "5, -7",
+      "2, 5",
+      "2,9"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The letter of the word MATRICULATION are cut and put into a box. one of the letter is drawn at random form the box Find the probability of drawing a vowel...<\/strong><\/p>",
+    "options": [
+      "1\/13",
+      "5\/13",
+      "6\/13",
+      "8\/13"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Let y = <sup>4x - 3<\/sup>\/<sub>2x - 5<\/sub> Write x as function of y<\/strong><\/p>",
+    "options": [
+      "x = <sup>2y - 3<\/sup>\/<sub>5y + 3<\/sub>",
+      "x = <sup>5y - 3<\/sup>\/<sub>2y + 4<\/sub>",
+      "x = <sup>5y - 3<\/sup>\/<sub>2y - 4<\/sub>",
+      "x = <sup>5y + 3<\/sup>\/<sub>2y - 4<\/sub>"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The nth term of a sequence is given by U<sub>n<\/sub>&nbsp;= 2 + 3U<sub>n - 1<\/sub> while U<sub>4<\/sub> = 36 + U<sub>3<\/sub> find the third term of the sequence<\/strong><\/p>",
+    "options": [
+      "1",
+      "5",
+      "17",
+      "51"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Five horses are in a race Mr A selects two of the horses at random and bets on them. The probability That Mr A selected the Wining horse is<\/strong><\/p>",
+    "options": [
+      "4\/5",
+      "3\/5",
+      "1\/5",
+      "2\/5"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>For &nbsp;what &nbsp;value of x is the function y = 7(x + 3) not defined?<\/strong><\/p>",
+    "options": [
+      "-3",
+      "Always defined",
+      "7",
+      "3"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A number is selected at random form 0 to 20. what is the probability that the number is an old prime.<\/strong><\/p>",
+    "options": [
+      "1\/21",
+      "8\/21",
+      "2\/21",
+      "5\/21"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>An angle x degrees is such that its complementary angle is equal to 1\/6&nbsp; of its supplementary angle. find the value of angle x in degrees?<\/strong><\/p>",
+    "options": [
+      "45",
+      "60",
+      "63",
+      "72"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>The first term of an Arithmetic Progression is 3, the last term is 136 and the sum is 1390. What are the first 3 terms?<\/strong><\/p>",
+    "options": [
+      "3, 10, 17",
+      "3, 23, 43",
+      "3, 139, 1251",
+      "3, 36, 70"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If r varies directly as s and if r = 3 when s = 8, find r when s = 12<\/strong><\/p>",
+    "options": [
+      "4.5",
+      "5",
+      "6",
+      "0.5"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The midpoint of the line segment joining (-1, 3) and (5, 7) is<\/strong><\/p>",
+    "options": [
+      "(3, 5)",
+      "(3, 2)",
+      "(2, 5)",
+      "(1, 6)"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>What is 5.37% in fraction form?<\/strong><\/p>",
+    "options": [
+      "537\/10,000",
+      "537\/10,000",
+      "537\/1000",
+      "537\/100"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><span style=\"line-height: 115%;\"><b>Three consecutive positive integers K, L and M are such that 39 =3 (K+M). Find the value of M.<\/b><\/span><\/p>",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If log r+log s = log t, then<\/strong><\/p>",
+    "options": [
+      "Log (r+s) = log t",
+      "r + s = t",
+      "rs = t",
+      "st = r"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A woman is three times as old as her daughter. The difference between their ages is 24years. Find the sum of their ages<\/strong><\/p>",
+    "options": [
+      "48 years",
+      "36 years",
+      "24 years",
+      "40 years"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the smallest number by which 252 can be multiplied to obtain a perfect square<\/strong><\/p>",
+    "options": [
+      "3",
+      "2",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>Find the mean deviation set of numbers 4, 5, 9<\/strong><\/p>",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "6"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>N varies inversely as the square of X and N = 10 when X=1\/2 . find N when X=1\/4<\/strong><\/p>",
+    "options": [
+      "80",
+      "1\/40",
+      "40",
+      "1\/50"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Subtract (-3x &ndash; 4y + 2t) from (x-2y -t)<\/strong><\/p>",
+    "options": [
+      "4x + 2y \u2013 3t",
+      "4x + 2y + 3t",
+      "4x - 2y + 3t",
+      "-4x - 2y + 3t"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The H.C.F and L.C.M of 12 and 30, respectively ,<\/strong><\/p>",
+    "options": [
+      "60,0",
+      "6,60",
+      "6,120",
+      "12,120"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Divide the &nbsp;LCM of 48, 64 and 30 by their HCF<\/strong><\/p>",
+    "options": [
+      "200",
+      "300",
+      "480",
+      "600"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If a central angle of measure 30\u00b0 is subtended by a circular arc of length 6 meters in length, what is the radius of the circle?<\/strong><\/p>",
+    "options": [
+      "18",
+      "16",
+      "12",
+      "36"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If the maximum value of y =1 + hx &ndash; 3x<sup>2<\/sup> is 3, find h<\/strong><\/p>",
+    "options": [
+      "ROOT 13",
+      "ROOT  24",
+      "ROOT  11",
+      "ROOT  10"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If dy\/dx =6x<sup>2<\/sup> + 15x<sup>4<\/sup> and y = 7 when x =2, find y<\/strong><\/p>",
+    "options": [
+      "2x<sup>3<\/sup> + 3x<sup>5<\/sup> +7",
+      "12x + 60x<sup>3<\/sup> -497",
+      "12x + 60x<sup>2<\/sup> + 7",
+      "2x<sup>3<\/sup> + 3x<sup>5<\/sup> - 105"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Divide 4x<sup>3<\/sup> - 3x + 1 by 2x &ndash; 1<\/strong><\/p>",
+    "options": [
+      "2x<sup>2<\/sup> + x - 1",
+      "2x<sup>2<\/sup> + x + 1",
+      "2x<sup>2<\/sup> - x + 1",
+      "2x<sup>2<\/sup> - x - 1"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A woman mark her goods to gain 40% but allows 20% discount for each. What is her percentage profit when sold for cash?<\/strong><\/p>",
+    "options": [
+      "20%",
+      "16%",
+      "15%",
+      "12%"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Three boys shared some oranges. The first receive 1\/3 of the orange, the second receive 2\/3 of the remainder, if the third Boy receive the remaining 12 oranges. How many oranges did they share?<\/strong><\/p>",
+    "options": [
+      "60",
+      "54",
+      "48",
+      "42"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the components of the vector u + v where u = (3, -7) and v = (4, 2).<\/strong><\/p>",
+    "options": [
+      "(7, -5)",
+      "(7, -6)",
+      "(2, -5)",
+      "(3, 5)"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>At what real value of x do the curves whose equations are y - x<sup>3<\/sup>+ x and y = x<sup>2<\/sup>+ 1 intersect?<\/strong><\/p>",
+    "options": [
+      "-2",
+      "2",
+      "-1",
+      "1"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the gradient of the line passing through the points (-2, 0) and (0, -4)<\/strong><\/p>",
+    "options": [
+      "-4",
+      "2",
+      "-2",
+      "4"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>If (x-2) is a factor of x<sup>3<\/sup>&ndash;3x<sup>2<\/sup>+kx +14, the value of k is<\/strong><\/p>",
+    "options": [
+      "-5",
+      "-2",
+      "2",
+      "-3"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the coefficient of x<sup>2<\/sup> when (3x<sup>2<\/sup> + 2x) is multiplied by (x<sup>2<\/sup>- 4x-1)<\/strong><\/p>",
+    "options": [
+      "11",
+      "-11",
+      "9",
+      "-9"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>P varies directly as the square of q an inversely as r. If p=36, when q=3 and r=4, find p when q=5 and r=2<\/strong><\/p>",
+    "options": [
+      "72",
+      "100",
+      "90",
+      "200"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Differentiate x\/Cosx with respect to x<\/strong><\/p>",
+    "options": [
+      "1-x Sec  x tan x",
+      "1+Sec2x",
+      "Cos x + x tan x",
+      "Sec x + x Sec x tan x"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If the function (x) = x<sup>3<\/sup> + 2x<sup>2<\/sup> + qx - 6 is divisible by x + 1, Find q<\/strong><\/p>",
+    "options": [
+      "-5",
+      "-2",
+      "11",
+      "5"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The second and fifth terms of a geometric progression are 6 and - 48, respectively. The first term is<\/strong><\/p>",
+    "options": [
+      "- 3",
+      "3",
+      "12",
+      "- 12"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If &nbsp;the sum of the roots of the quadratic equation ax<sup>2<\/sup> + bx + c = 0 is equal to the sum of the sum &nbsp;of the squares of their reciprocals, then a\/c, b\/a, and c\/b:<\/strong><\/p>",
+    "options": [
+      "Satisfy a + 2b + 3c = 0",
+      "Are in G.P",
+      "Are in H.P",
+      "Are in A.P"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>A circle is<\/strong><\/p>",
+    "options": [
+      "The fixed distance from one point to another",
+      "The locus of points on a circumference",
+      "The locus of a point equidistant from a fixed point",
+      "The locus of two fixed points"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>What is the last term in the sequence 16, -4, 1, -<sup>1<\/sup>\/<sub>4<\/sub>,\u2026\u2026\u2026..?<\/strong><\/p>",
+    "options": [
+      "-<sup>1<\/sup>\/<sub>8<\/sub>",
+      "<sup>1<\/sup>\/<sub>2<\/sub>",
+      "<sup>1<\/sup>\/<sub>8<\/sub>",
+      "<sup>1<\/sup>\/<sub>16<\/sub>"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The length of a rectangle is 3cm longer than twice the width. If the area of the rectangle is 90 sq cm. find the length and the width of the rectangle.<\/strong><\/p>",
+    "options": [
+      "10cm by 6cm",
+      "30cm by 6cm",
+      "15cm by 6cm",
+      "15cm by 10cm"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The graph of the function y = f(x) is symmetrical about the line x = 2, then<\/strong><\/p>",
+    "options": [
+      "F(x + 2) = f(2 - x)",
+      "F(2 + x) = f(x - 2)",
+      "F(x) = f( - x)",
+      "F(x) = - f( - x)"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Evaluate 21.05347 &ndash; 1.6324 x 0. 13, to 3 decimal place<\/strong><\/p>",
+    "options": [
+      "20.351",
+      "20.841",
+      "20.980",
+      "20.981"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A number is selected at random between 20 and 30 both numbers inclusive .find the probability that the number is a prime<\/strong><\/p>",
+    "options": [
+      "2\/11",
+      "5\/11",
+      "6\/11",
+      "8\/11"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A student calculated the mean of 5 numbers as 45.3. While rechecking his working, he discovered that his total was short by 20.5. What is the correct mean of the 5 numbers?<\/strong><\/p>",
+    "options": [
+      "24.8",
+      "41.2",
+      "49.4",
+      "65.8"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A number of pencil were shared out among Bisi , Sola and Tunde in the ratio 2:3:5 respectively if Bisi got 5, how many were shared out?<\/strong><\/p>",
+    "options": [
+      "15",
+      "25",
+      "30",
+      "50"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>In how many ways can the word MATHEMATICS be arranged?<\/strong><\/p>",
+    "options": [
+      "11!\/ (9! 2!)",
+      "11! \/(9! 2! 2!)",
+      "11!\/ (2! 2! 2! 2!)",
+      "11!\/( 2! 2!)"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Given that the first and fourth terms of a G.P are 6 and 162 respectively, find the sum of the first three term of the progression<\/strong><\/p>",
+    "options": [
+      "8",
+      "27",
+      "48",
+      "78"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Triangle ABC has sides AB=10, BC=x and AC=12. If the perimeter of triangle ABC is 28, what is X?<\/strong><\/p>",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If U = {S,P,L,E,N,D,O,U,R} X = {S,P,E,N,D} Y ={P,N,O,U,R} Z ={P,N,D} find X &cap; (YUZ)<\/strong><\/p>",
+    "options": [
+      "{P,O,U,R}",
+      "{S,P,D,R}",
+      "{P,N,D}",
+      "{N,D,U}"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Which of the following is a factor of rs + tr &ndash; pt &ndash; ps?<\/strong><\/p>",
+    "options": [
+      "(p - s)",
+      "(s - p)",
+      "(r - p)",
+      "(r = p)"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A crate of soft drinks contains 10 bottles of coca-cola, 8 of fanta and 6 of sprite. If one bottle is selected at random, what is the probability that it is a coca-cola bottle?<\/strong><\/p>",
+    "options": [
+      "5\/12",
+      "1\/3",
+      "7\/1\/2",
+      "1\/4"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If x is a positive real number, find the range of values for which 1\/3x + 1\/2 &gt; 1\/4x<\/strong><\/p>",
+    "options": [
+      "X>-1\/6",
+      "X>0",
+      "x > 1\/2",
+      "0<x <1\/6"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A plasma TV originally priced for N480,000 is discounted by 10%, then by another 10%. If value added tax is added to the purchase price, how much would a customer buying the TV pay for it?<\/strong><\/p>",
+    "options": [
+      "461040",
+      "403110",
+      "466560",
+      "465660"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>The ages of Tosin and Isa differ by 6 and the product of their ages is 187, write their ages in the form (x, y), where x&gt;y<\/strong><\/p>",
+    "options": [
+      "(12,9)",
+      "(23,17)",
+      "(17,11)",
+      "(18,12)"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>In a family of 21 people the average age is 14years. If the age of the grandfather is not counted, the average age drops to 12 years. What is the age of the grandfather?<\/strong><\/p>",
+    "options": [
+      "35years",
+      "40years",
+      "42years",
+      "54years"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>If x+4 and x-3 are factors of the expressions lx + 2kx<sup>2<\/sup> - 24, find the value l and k<\/strong><\/p>",
+    "options": [
+      "l=6,k=9",
+      "l=2,k=1",
+      "l= 2,k= 1",
+      "l=0,k=1"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If a rod of length 250cm is measured as 255cm long in error, what is the percentage error in measurement?<\/strong><\/p>",
+    "options": [
+      "55%",
+      "10%",
+      "5%",
+      "2%"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If<em> f(x)<\/em> = 7x + 2, obtain the inverse <em>f<sup>-1<\/sup><\/em>(9).<\/strong><\/p>",
+    "options": [
+      "2",
+      "7",
+      "1",
+      "9"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>In 1984, Ike was 24years old and his father was 45years old, in what year was Ike exactly half his father&rsquo;s age?<\/strong><\/p>",
+    "options": [
+      "1982",
+      "1981",
+      "1979",
+      "1978"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>How many real solution does the equation x<sup>7 <\/sup>+ 14x<sup>5<\/sup> + 16x<sup>3<\/sup> + 30x \u2013 50 = 0 have?<\/strong><\/p>",
+    "options": [
+      "1",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If x, (2x + 1) and (3x \u2013 a) form an A.P. find a<\/strong><\/p>",
+    "options": [
+      "2",
+      "-2",
+      "1",
+      "-1"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Which of &nbsp;the following means &rdquo;a number less than 12&rdquo;?<\/strong><\/p>",
+    "options": [
+      "12",
+      "N-12",
+      "12-N",
+      "N<12"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The radius of a circle is given as 5cm subjects to an error of 0.1cm. What is the percentage error in the area of the circle<\/strong><\/p>",
+    "options": [
+      "1.12",
+      "3.12",
+      "4.12",
+      "2.12"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If 2x<sup>2<\/sup> &ndash; px + 6 = (2x-6)(x-1) then p is equal to<\/strong><\/p>",
+    "options": [
+      "-8",
+      "4",
+      "-4",
+      "8"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>Find the positive value of x if the standard variance of the numbers 1, x+1, 2x +1 is 6<\/strong><\/p>",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>There are eight men and nine women on a committee.In how many ways can a subcommittee of two men and three women be chosen.<\/strong><\/p>",
+    "options": [
+      "2352",
+      "112",
+      "6188",
+      "28224"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>The 4th term of an AP is 13 while the 10th term is 31. Find the 31st term<\/strong><\/p>",
+    "options": [
+      "175",
+      "85",
+      "94",
+      "45"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The probability of a student passing any examination is 2\/3,if the student takes three examination,what is the probability that he will not pass any of them.<\/strong><\/p>",
+    "options": [
+      "1\/27",
+      "8\/27",
+      "4\/9",
+      "2\/3"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p style=\"margin-left: 2.25pt;\"><strong>Let the universal set U={1,2,3,4,5,5}. If A={1,2,3} and B={2,4,6}, the intersection of A and B is<\/strong><\/p>",
+    "options": [
+      "{2}",
+      "{1,3}",
+      "{4. 6}",
+      "{1,2,3,5}"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Divide 2x<sup>3<\/sup> + 11x<sup>2<\/sup> + 17x +6 by 2x-1<\/strong><\/p>",
+    "options": [
+      "x<sup>2<\/sup>+5x+6",
+      "2x<sup>2<\/sup>+5x+6",
+      "2x<sup>2<\/sup>+x+6",
+      "x<sup>2<\/sup>-5x+6"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A chord of a circle with radius 50cm subtends an angle of the 60\u00b0 on the circumference of the circle. Find the length of the chord<\/strong><\/p>",
+    "options": [
+      "12.5cm",
+      "25cm",
+      "45cm",
+      "50cm"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the point (x, y) on the education plane where the curve y = 2x<sup>2<\/sup> - 2x + 3 has 2 as a gradient<\/strong><\/p>",
+    "options": [
+      "(1, 3)",
+      "(2, 7)",
+      "(0, 3)",
+      "(3, 15)"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>What must be added to 4x<sup>2<\/sup>-4 to make it a perfect square?<\/strong><\/p>",
+    "options": [
+      "-1\/x2",
+      "1\/2",
+      "1",
+      "0"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Calculate 3310<sub>5<\/sub> &ndash; 1442<sub>5<\/sub><\/strong><\/p>",
+    "options": [
+      "1313<sub>5<\/sub>",
+      "2113<sub>5<\/sub>",
+      "4302<sub>5<\/sub>",
+      "1103<sub>5<\/sub>"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The weight of 10 pupils in class are 15kg, 16kg, 17kg, 18kg, 16kg, 17kg, 17kg, 17kg, 18kg and 16kg.what is the range of this distribution?<\/strong><\/p>",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A farmer in Badagry sold 11580-pound sacks of beans. Of these, 5450 sacks were sold at N18 per sacks and the rest were sold at N16 per sack. What was the income from the two sacks?<\/strong><\/p>",
+    "options": [
+      "1208450",
+      "196180",
+      "198100",
+      "187200"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If f(x + 2) = 3x<sup>2<\/sup>&nbsp;- 2x + 5, find f(1)<\/strong><\/p>",
+    "options": [
+      "8",
+      "10",
+      "6",
+      "3"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If x and y are negative integers, and x &ndash; y=1, then the least possible value of xy is:<\/strong><\/p>",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Evaluate 0.7846\/0.0007,correct to 3 significant figures.<\/strong><\/p>",
+    "options": [
+      "112",
+      "1120",
+      "133",
+      "1130"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>How many real solution does the equation x<sup>7 <\/sup>+ 14x<sup>5<\/sup> + 16x<sup>3<\/sup> + 30x \u2013 50 = 0 have?<\/strong><\/p>",
+    "options": [
+      "1",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A man is paid r naira per hour for normal work and double rate for over time. If he does a 35-hour week which include q hour of over time, what is his weekly earning in naira<\/strong><\/p>",
+    "options": [
+      "r(35+2q)",
+      "q(35r-q)",
+      "q(35r+r)",
+      "r(35-q)"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If y=sin(x<sup>2<\/sup> + 7) then the derivative of y with respect to x is<\/strong><\/p>",
+    "options": [
+      "2xcos(x<sup>2<\/sup> + 7)",
+      "(2x +7)cos(x<sup>2<\/sup> + 7)",
+      "-2cos(x<sup>2<\/sup> +7)",
+      "2xcosx"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A cinema ball contion a certain number of people.If 22 &frac12; % are children,47 &frac12; % are men and 84 are women, find the number of men in the hall.<\/strong><\/p>",
+    "options": [
+      "133",
+      "113",
+      "63",
+      "84"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A rectangle polygon with n sides has 160\u00b0 as the size of each interior. Find n<\/strong><\/p>",
+    "options": [
+      "18",
+      "16",
+      "14",
+      "12"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Evaluate (4x 10<sup>3<\/sup>) X (6 x 10<sup>2<\/sup>), leaving your answer in standard form<\/strong><\/p>",
+    "options": [
+      "2400000",
+      "2.4 x 10<sup>5<\/sup>",
+      "24 x 10<sup>3<\/sup>",
+      "4.6 x 10<sup>5<\/sup>"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Udoh deposited N15000 in the bank. At the end of 5years the simple interest on the principal was N5500. At what rate per amount was the interest paid?<\/strong><\/p>",
+    "options": [
+      "11%",
+      "5%",
+      "7 \u2153%",
+      "3 \u00bd %"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Simplify log<sub>3<\/sub>243 &ndash; log<sub>3<\/sub>327<\/strong><\/p>",
+    "options": [
+      "Log242",
+      "5",
+      "2",
+      "Log254"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Three consecutive terms of a geometric progression are given as n &ndash; 2, n and n + 3, find the common ratio.<\/strong><\/p>",
+    "options": [
+      "2\/3",
+      "3\/2",
+      "1\/2",
+      "1\/4"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If 32y &ndash; 6(3y)=14. Find y<\/strong><\/p>",
+    "options": [
+      "3",
+      "-1",
+      "2",
+      "1"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find (1\/0.06 \u00f7 1\/0.042)<sup>-1&nbsp;<\/sup>correct to two decimal places<\/strong><\/p>",
+    "options": [
+      "4.42",
+      "3.14",
+      "1.53",
+      "1.43"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Let U={x: 2&lt;x&lt;13}, A= {prime numbers}. Then A is<\/strong><\/p>",
+    "options": [
+      "{1, 4, 6, 10, 11, 12}",
+      "{4, 6, 8, 9, 10, 12, 13}",
+      "{4, 6, 9, 10, 12}",
+      "{3, 5, 7, 11}"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon<\/strong><\/p>",
+    "options": [
+      "87",
+      "6",
+      "4",
+      "3"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The prime factors of 2,520 are<\/strong><\/p>",
+    "options": [
+      "2,9,5",
+      "2,9,7",
+      "2,3,5,7",
+      "2,3,7,9"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong><span style=\"font-size: 11pt; line-height: 115%; font-family: 'Calibri','sans-serif';\">A die has four of its faces coloured white and the remaining two coloured black. what is the probability that when the die is thrown two consecutive times, the top face will be white in both <\/span><\/strong><\/p>",
+    "options": [
+      "2\/3",
+      "1\/9",
+      "4\/9",
+      "1\/36"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Two fair dice are rolled. What is the probability that show up the same number of point?<\/strong><\/p>",
+    "options": [
+      "1\/36",
+      "7\/36",
+      "1\/2",
+      "1\/6"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A cylindrical tank has a capability of 308m<sup>3<\/sup>. What is the depth of the tank if the base area is 14m<sup>2<\/sup>?<\/strong><\/p>",
+    "options": [
+      "20m",
+      "22m",
+      "23m",
+      "25m"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The solution to the inequality 5 &ndash; 2x&gt;11 &ndash; 4x is<\/strong><\/p>",
+    "options": [
+      "x>3",
+      "x<3",
+      "x>1",
+      "x<1"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The following marks were obtained by twenty students in an examination 53 30 70 84 59 43 90 20 78 48 44 60 81 73 50 37 67 68 64 52. Find the number of students who scored at least 50 marks.<\/strong><\/p>",
+    "options": [
+      "5",
+      "10",
+      "13",
+      "14"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A workers present salary is N24,000 per annum. The annual increment is 10% of his basic salary. What would be his annual salary at the beginning of the third year<\/strong><\/p>",
+    "options": [
+      "N28,800",
+      "N29,040",
+      "N31,200",
+      "N31,944"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If numbers are chosen at random from three numbers, 1, 3, 6. Find the probability that the sum of the two is net odd.<\/strong><\/p>",
+    "options": [
+      "2\/3",
+      "1\/2",
+      "1\/3",
+      "1\/6"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The sixth term of an arithmetic progression is half of its twelfth term. The first term is equal to?<\/strong><\/p>",
+    "options": [
+      "Half of the common differences",
+      "Double of the common differences",
+      "The common difference",
+      "Zero"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the 8th term of the arithmetic sequence 100, 85, 70, . . .&nbsp;&nbsp;<\/strong><\/p>",
+    "options": [
+      "3",
+      "5",
+      "-5",
+      "8"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The length of a notebook 15cm was measured as 16.8cm. Calculate the percentage error to 2 significant figures.<\/strong><\/p>",
+    "options": [
+      "12.00%",
+      "11.00%",
+      "10.71%",
+      "0.12%"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If \u201ca\u201d is not equal to \u201cb\u201d and 1\/x + 1\/a = 1\/b then x = ?<\/strong><\/p>",
+    "options": [
+      "<sup>1<\/sup>\/<sub>b<\/sub> \u2013 <sup>1<\/sup>\/<sub>a<\/sub>",
+      "b \u2013 a",
+      "<sup>ab<\/sup>\/<sub>(a-b)<\/sub>",
+      "<sup>1<\/sup>\/<sub>ab<\/sub>"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If x varies inversely as the cube root of y and x=1 when y=8 find y when x=3<\/strong><\/p>",
+    "options": [
+      "1\/3",
+      "2\/3",
+      "8\/27",
+      "4\/9"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The point diametrically opposite to the point P(1, 0) on the circle x<sup>2<\/sup> + y<sup>2<\/sup> + 2x + 4y \u2013 3 = 0 is:<\/strong><\/p>",
+    "options": [
+      "(-3, -4)",
+      "(-3, 4)",
+      "(3, 4)",
+      "(-4, -1)"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A 16m ladder is placed against a house so that its base is 8m from the house. What angle does the ladder make with the ground?<\/strong><\/p>",
+    "options": [
+      "65\u00b0",
+      "60\u00b0",
+      "34\u00b0",
+      "10\u00b0"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A student has 5 courses to take from Mathematics and Physics. There are 4 courses in Mathematics and 3 in Physics which he can choose from at will. In how many ways can he choose his courses so that he takes exactly two courses in Physics?<\/strong><\/p>",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "7"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A farmer has two square plots. The area of one plot is 125 square yards while the second has an area of 5 square yards. How many yards of fencing are needed to enclose the two plots?<\/strong><\/p>",
+    "options": [
+      "4\u221a30",
+      "2\u221a10",
+      "24\u221a5",
+      "10\u221a45"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A cylindrical drum of diameter 160cm contains 123.2liters of oil when full. Find the height of the drum in centimeters<\/strong><\/p>",
+    "options": [
+      "12.55",
+      "2.50",
+      "4.52",
+      "6.13"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Two perpendicular lines PQ and QR intercept at (1, -1) if the equation of PQ is x - 2y + 4 = 0 find the equation of QR<\/strong><\/p>",
+    "options": [
+      "x - 2y + 1 = 0",
+      "2x + y - 3 = 0",
+      "x - 2y - 3 = 0",
+      "2x + y - 1 = 0"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The hypotenuse of a right angle triangle ABC is 8 units long while angle BAC is 60 degrees. Given that sin60 = 0.5 and tan60&nbsp; = 1.73, approximately how many units long is side BC to the nearest hundred?<\/strong><\/p>",
+    "options": [
+      "4.00",
+      "4.61",
+      "4.80",
+      "6.93"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>A point P moves so that it is equidistant from points L and M. if LM is 16cm, find the distance of P from LM when P is 10cm from L<\/strong><\/p>",
+    "options": [
+      "12cm",
+      "10cm",
+      "8cm",
+      "6cm"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The scores of 16 students in Mathematics test are 65, 65, 55, 60, 60, 65, 60, 70, 75, 70, 65, 70, 60, 65, 65, 70. What is the sum of the median and modal scores?<\/strong><\/p>",
+    "options": [
+      "125",
+      "130",
+      "140",
+      "150"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The first term of a geometrical progression is twice its common ratio. Find the sum of the first two terms of the&nbsp; progression if its sum to infinity is 8<\/strong><\/p>",
+    "options": [
+      "<sup>8<\/sup>\/<sub>5<\/sub>",
+      "<sup>8<\/sup>\/<sub>3<\/sub>",
+      "<sup>72<\/sup>\/<sub>25<\/sub>",
+      "<sup>56<\/sup>\/<sub>9<\/sub>"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If a rod of length 250cm is measure as 255cm longer in error, what is the percentage error in measurement?<\/strong><\/p>",
+    "options": [
+      "55%",
+      "10%",
+      "5%",
+      "2%"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>The graph of f(x) = x<sup>2<\/sup> - 5x + 6 crosses the x-axis at the points<\/strong><\/p>",
+    "options": [
+      "(-6, 0)(-1,0)",
+      "(-3, 0)(-2, 0)",
+      "(-6, 0)(1, 0)",
+      "(2, 0)(3, 0)"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>For what value of x is the tangent to the curve y = x<sup>2<\/sup> - 4x + 3 parallel to the x-axis?<\/strong><\/p>",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>3 girls share a number of apples in the ratio 5:3:2 if the highest share is 40 apples find the smallest share.<\/strong><\/p>",
+    "options": [
+      "16",
+      "38",
+      "36",
+      "24"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>if x &ndash; 4 = 0 <\/strong><br \/><strong>and <\/strong><br \/><strong>x<sup>2<\/sup> &ndash; x &ndash; k = 0 <\/strong><br \/><strong>Find k<\/strong><\/p>",
+    "options": [
+      "30",
+      "2",
+      "4",
+      "12"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>If the mid-point of the line PQ is (2, 3) and the point P is (-2, 1) Find the coordinate of the point Q<\/strong><\/p>",
+    "options": [
+      "5, 9",
+      "2, 4",
+      "8, 5",
+      "6, 5"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of the following points does not lie on the line 2y + 5x -4 = 0?<\/b><br><\/p>",
+    "options": [
+      "(0.8, 0)",
+      "(0,2)",
+      "(1,-0.5)",
+      "(2,3)"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A straight line has the equation 10y = 3x + 15. Which of the following is true?<\/b><br><\/p>",
+    "options": [
+      "The gradient is 0.3 and the y-intercept is 1.5",
+      "The gradient is 3 and the y-intercept is 1.5",
+      "The gradient is 15 and the y-intercept is 3",
+      "The gradient is 1.5 and the y-intercept is 0.3"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>P is the point (2, 7) and Q is the point (6, 3). What is the gradient of PQ?<\/b><br><\/p>",
+    "options": [
+      "1",
+      "-1",
+      "0.5",
+      "-0.5"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>P is the point (3, 5). Q is the point (-1, 9). R is the midpoint of PQ. Which one of the following lines does R lie on?<\/b><br><\/p>",
+    "options": [
+      "y = x + 6",
+      "y = x + 8",
+      "y = x - 6",
+      "y = x - 8"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A straight line has a gradient of -2 and passes through the point (4, 1). What is its equation?<\/b><br><\/p>",
+    "options": [
+      "y + 2x = 6",
+      "y = 2x - 6",
+      "y + 2x \u2013 9 = 0",
+      "2y = x -2"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The line y = 5x \u2013 3 and y = 2x + 9 intersect at P. What are the coordinates of P?<\/b><br><\/p>",
+    "options": [
+      "(2, 7)",
+      "(2, 13)",
+      "(4, 17)",
+      "(-4,-23)"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>If U<sub>n<\/sub> = 2, 6, 10, . . . , the 12th term of the sequence is?<\/b><br><\/p>",
+    "options": [
+      "46",
+      "50",
+      "48",
+      "44"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>If U<sub>n<\/sub> = 2, 6, 10, . . . , the last term of the sequence is 90. The number of terms in the sequence is<\/b><br><\/p>",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "23"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>In an arithmetic sequence with 25 terms, if the first term is 60 and the last term is -12 the common difference is<\/b><br><\/p>",
+    "options": [
+      "3",
+      "2",
+      "-3",
+      "-2"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>In an arithmetic sequence with 25 terms, if the first term is 60 and the last term is -12, the sum of the terms of the sequence is<\/b><br><\/p>",
+    "options": [
+      "600",
+      "2400",
+      "900",
+      "1800"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>In an arithmetic sequence whose 4th term is 14 and whose 11th term is 70, the first term and common difference are<\/b><br><\/p>",
+    "options": [
+      "a = -10, d = 8",
+      "a = -7, d = 7",
+      "a = 10, d = 8",
+      "a =-14, d = 7"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>In an arithmetic sequence whose 4th term is 14 and whose 11th term is 70, the sum of the first 12 terms of the sequence is?<\/b><br><\/p>",
+    "options": [
+      "468",
+      "330",
+      "456",
+      "408"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Ann goes swimming regularly. She wants to improve her fitness, so she decides to swim 10 lengths in the first session and increase the number of lengths she swims by 2 every session. When she reaches 50 lengths in a session she will not increase the number any further. After how many sessions does Ann swim 50 lengths for the first time?<\/b><br><\/p>",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "19"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The shares owned by Bola and Tolu a joint business valued at \u20a61,300,000 are in the ratio 5:8 respectively. What value of the business would Bola own if she sold 20% of her share of the business to Tolu?<\/b><\/p>",
+    "options": [
+      "\u20a6400,000",
+      "\u20a6500,000",
+      "\u20a6800,000",
+      "\u20a6900,000"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A bag contains 4 white balls and 6 red balls. Two balls are taken from the bag without replacement. What is the probability that they are both white?<\/b><br><\/p>",
+    "options": [
+      "1\/5",
+      "1\/3",
+      "2\/15",
+      "2\/9"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A man earns \u20a6150,000 per month and his wife earns \u20a6125,000 per month. If they both decide to save 10% of their salaries into a couple's account with a bank how much will they have after 10 months of savings?<\/b><br><\/p>",
+    "options": [
+      "\u20a6150,000",
+      "\u20a6330,000",
+      "\u20a6275,000",
+      "\u20a6125,000"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The population of a town is 15,386. Express this number in three significant figures.<\/b><br><\/p>",
+    "options": [
+      "15,390",
+      "15,380",
+      "15,400",
+      "15,300"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Convert 320\u00b0 to radian measure. Give answer using 3.14 as&nbsp;\u03c0<\/b><\/p>",
+    "options": [
+      "32\u03c0",
+      "2.57",
+      "5.58",
+      "1.31"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>What is the difference in the local time between two places in latitude 55\u00b0N if they are located at longitudes 8\u00b0W and 18\u00b0E respectively?<\/b><\/p>",
+    "options": [
+      "60 mins",
+      "80 mins",
+      "98 mins",
+      "104 mins"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Find the range of values of x for which 3x (x+5) &gt;0<\/strong><\/p>",
+    "options": [
+      "x>5",
+      "x<5",
+      "x>-5",
+      "x>0"
+    ],
+    "answerIndex": 4,
+    "examYear": "2005"
+  }
+]

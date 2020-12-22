@@ -1,0 +1,651 @@
+[
+  {
+    "question": "<p><b>A poem that teaches moral lesson is said to be<\/b><\/p>",
+    "options": [
+      "Pastoral",
+      "Symbolic",
+      "Primitive",
+      "Didactic"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A device in which an earlier event is recalled for exposition is<\/b><\/p>",
+    "options": [
+      "Suspense",
+      "Apostrophe",
+      "Irony",
+      "Flashback"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>One of the elements essential to a novel is&nbsp;<\/b><\/p>",
+    "options": [
+      "Scene",
+      "Plot",
+      "Dialogue",
+      "Chorus"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Who never said a foolish thing nor even did a wise one illustrate the use of ______<\/b><\/p>",
+    "options": [
+      "Pun",
+      "Oxymoron",
+      "Paradox",
+      "Epithet"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The oldest bronze in West Africa are found in<\/b><\/p>",
+    "options": [
+      "Ife",
+      "Benin",
+      "Igbo Ukwu",
+      "Jos"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The principal female character in a novel is called ______<\/b><\/p>",
+    "options": [
+      "hero",
+      "villain",
+      "clown",
+      "heroine"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Cowries were introduced to Nigeria from<\/b><\/p>",
+    "options": [
+      "Pacific ocean",
+      "Antarctic ocean",
+      "Indian ocean",
+      "Atlantic ocean"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Nigeria joined OPEC in<\/b><br><\/p>",
+    "options": [
+      "1971",
+      "1970",
+      "1973",
+      "1972"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The slave trade was abolished in<\/b><br><\/p>",
+    "options": [
+      "1807",
+      "1909",
+      "1813",
+      "1877"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The major features of a play are _____<\/b><\/p>",
+    "options": [
+      "acts and scenes",
+      "chapters and paragraphs",
+      "characterization",
+      "stanza and verse"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A funeral song in which expresses grief is ______<\/b><\/p>",
+    "options": [
+      "A dirge",
+      "An epic",
+      "An ode",
+      "A sonnet"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The Portuguese first visited Benin in the reign of Oba<\/b><br><\/p>",
+    "options": [
+      "Ewuare the Great",
+      "Ozolua",
+      "Esigie",
+      "Ovonramwen"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Wheels and wheels and wheels spin by illustrates ______<\/b><\/p>",
+    "options": [
+      "Repetition",
+      "Rhyme",
+      "Euphemism",
+      "Meiosis"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The last paper of a literary work is known as ______<\/b><\/p>",
+    "options": [
+      "acknowledgement",
+      "a prologue",
+      "an epilogue",
+      "conclusion"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Islam prohibits the consumption of all but one meat<\/b><\/p>",
+    "options": [
+      "pork meat",
+      "dead fish",
+      "dog meat",
+      "dead animal"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>What was the condition of the earth before the creation of the world?<\/b><\/p>",
+    "options": [
+      "The earth was without form and void",
+      "There was firmament above the earth",
+      "Light infrequently penetrated the earth",
+      "The heaven was very close to earth"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A short sing&nbsp; like poem is&nbsp;<\/b><\/p>",
+    "options": [
+      "Repetition",
+      "Rhyme",
+      "Euphemism",
+      "Lyrics"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>_____&nbsp; is not allowed to fast in the month of Ramadan?<\/b><\/p>",
+    "options": [
+      "Drunkard",
+      "Teenager",
+      "Traveller",
+      "Farmer"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>According to the Holy Qur'an, the mother of Jesus is referred to as?<\/b><br><\/p>",
+    "options": [
+      "Aishah",
+      "Maryam",
+      "Zainab",
+      "Rose"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>According to the Holy Qur'an, Muslims are allowed to marry up to&nbsp; _____&nbsp; wives<\/b><br><\/p>",
+    "options": [
+      "two",
+      "three",
+      "four",
+      "six"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Satire employs&nbsp; the use of ______<\/b><\/p>",
+    "options": [
+      "Onomatopoeia",
+      "Irony",
+      "Synecdoche",
+      "Melancholy"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The general messages preached by the whole prophets in the Holy Qur'an is ______<\/b><br><\/p>",
+    "options": [
+      "Oneness of God",
+      "Faithfulness",
+      "Love",
+      "Wealth"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The earliest nationalist activities in Nigeria were spearheaded by?<\/b><\/p>",
+    "options": [
+      "Educated elites",
+      "Trade unions",
+      "Traditional rulers",
+      "Political parties"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>\"Fights by the book of arithmetic\" The figure of speech in the line above is ______<\/b><\/p>",
+    "options": [
+      "Hyperbole",
+      "Euphemism",
+      "Litotes",
+      "Innuendo"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The people of Malta thought that Paul must be a murderer because he<\/b><\/p>",
+    "options": [
+      "was bitten by a poisonous snake",
+      "told them about hell",
+      "was being taken to Rome as a prisoner",
+      "preached to them about the crucifixion of Jesus"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Weep not child, weep not my darling these kisses let me remove your tears the ravening clouds shall no longer be victorious, they shall no longer posses the sky. The speaker of the lines is _____<\/b><\/p>",
+    "options": [
+      "optimistic",
+      "carefree",
+      "helpless",
+      "pessimistic"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The first notable nationalist movement in West Africa was the ______?<\/b><\/p>",
+    "options": [
+      "National Congress of British West Africa",
+      "West African Students Union",
+      "Nigeria Youth Movement",
+      "Aborigines Rights Protection Society Decisions"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>When Christ called Levi to follow him, he<\/b><\/p>",
+    "options": [
+      "waited two days before he obeyed",
+      "accounted for the tax he collected and responded",
+      "took some of the money he collected before Following him",
+      "left everything and followed him"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Who among Joseph's brothers was bound by Joseph when they went to Egypt to buy grain<\/b><\/p>",
+    "options": [
+      "Simeon",
+      "Reuben",
+      "Benjamin",
+      "Judah"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>\"Deal gently for my sake with the young man Absalom.\" David's statement above exhibited his<\/b><\/p>",
+    "options": [
+      "indulgent love for his son",
+      "willingness to forgive his competitors",
+      "desire to punish Absalom himself",
+      "high level of parental control"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>Who among the following political philosophers advocated sovereignty should be the king?<\/strong><\/p>",
+    "options": [
+      "Jean Jacques Rosseau",
+      "Thomas Hobbes",
+      "John Austin",
+      "Jean Bodin"
+    ],
+    "answerIndex": 4,
+    "examYear": "2010"
+  },
+  {
+    "question": "<p><strong>As the earth moves in its elliptical orbit, the part closest to the sun is called<\/strong><\/p>",
+    "options": [
+      "the Milky way",
+      "aphelion",
+      "perihelion",
+      "galaxy"
+    ],
+    "answerIndex": 3,
+    "examYear": "2009"
+  },
+  {
+    "question": "<p><strong>The earth is the fifth largest planet in the solar system, with a surface area of approx 443 million sq km. What is its equatorial circumference<\/strong><\/p>",
+    "options": [
+      "40,085 km",
+      "12,772km",
+      "29,955km",
+      "197,022km"
+    ],
+    "answerIndex": 1,
+    "examYear": "2009"
+  },
+  {
+    "question": "<p><strong>The system of goverment in which elders rule is known as&nbsp;<\/strong><\/p>",
+    "options": [
+      "gerontocracy",
+      "democracy",
+      "communism",
+      "oligarchy"
+    ],
+    "answerIndex": 1,
+    "examYear": "2009"
+  },
+  {
+    "question": "<p><strong>The following country operates a system with Unicameral legislature<\/strong><\/p>",
+    "options": [
+      "Ghana",
+      "Nigeria",
+      "U.S.A",
+      "United Kingdom"
+    ],
+    "answerIndex": 1,
+    "examYear": "2009"
+  },
+  {
+    "question": "<p><strong>Land and sea breezes may be explained in terms of differentiala in<\/strong><\/p>",
+    "options": [
+      "Salient heat of fusion",
+      "Specific latent heat of vaporization",
+      "Latent heat of vaporization",
+      "Specific heat capacities"
+    ],
+    "answerIndex": 4,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>Which one of the following colour is most likely to produce a photo-electron with the highest kinetic energy ?<\/strong><\/p>",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "answerIndex": 3,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>The notion of long term and short term periods is responsible for grouping costs into<\/strong><\/p>",
+    "options": [
+      "fixed and variable",
+      "implicit and explicit",
+      "average and total",
+      "capital and running"
+    ],
+    "answerIndex": 1,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>Every Sunday John jogs 3km. For rest of the week, each day he jogs 1km more than the previous day. How many kilometers does John jog in 2 weeks<\/strong><\/p>",
+    "options": [
+      "42",
+      "63",
+      "84",
+      "117"
+    ],
+    "answerIndex": 3,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>Crossing the International Date Line from West to East one<\/strong><\/p>",
+    "options": [
+      "gains or loses a day",
+      "loses a day",
+      "gains a day",
+      "loses an hour"
+    ],
+    "answerIndex": 2,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>One remarkable point against a multi-party system is, the&nbsp;<\/strong><\/p>",
+    "options": [
+      "banning of interest groups",
+      "inability to attract foreign assitance",
+      "high cost of conducting elections",
+      "encouragement of opposition and instability"
+    ],
+    "answerIndex": 3,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>According to the Land Use Decree of 1978 the ownership of land in Nigeria was vested in the&nbsp;<\/strong><\/p>",
+    "options": [
+      "state government",
+      "federal government",
+      "local chiefs",
+      "local government"
+    ],
+    "answerIndex": 1,
+    "examYear": "2008"
+  },
+  {
+    "question": "<p><strong>Which of the following is a feature of wind abrasion?<\/strong><\/p>",
+    "options": [
+      "barchans",
+      "seifs",
+      "rock pedestal",
+      "deflation hollows"
+    ],
+    "answerIndex": 3,
+    "examYear": "2007"
+  },
+  {
+    "question": "<p><strong>Soil texture is determined by<\/strong><\/p>",
+    "options": [
+      "soil composition",
+      "mineral inorganic particles",
+      "colour of the initial rock constituents",
+      "looseness of the arrangement of soil materials"
+    ],
+    "answerIndex": 1,
+    "examYear": "2007"
+  },
+  {
+    "question": "<p><strong>The major cause of change in population size are<\/strong><\/p>",
+    "options": [
+      "births, deaths and migration",
+      "births, marriage and deaths",
+      "births, accidents and deaths",
+      "migration, fertility and marriage"
+    ],
+    "answerIndex": 1,
+    "examYear": "2007"
+  },
+  {
+    "question": "<p><strong>The most frequent use of the flood plan is&nbsp;<\/strong><\/p>",
+    "options": [
+      "settlement",
+      "pasturing sheep",
+      "arable farming",
+      "pasturing cattle"
+    ],
+    "answerIndex": 1,
+    "examYear": "2006"
+  },
+  {
+    "question": "<p><strong>The idea of non-alignment is generally credited to<\/strong><\/p>",
+    "options": [
+      "Jawaharal Nebru",
+      "Chairman Mao Ise Tung",
+      "Kwame Nkrumah",
+      "Nnamdi Azikiwe"
+    ],
+    "answerIndex": 1,
+    "examYear": "2006"
+  },
+  {
+    "question": "<p><strong>Which of the following countries was not a member of the Monrovia Bloc?<\/strong><\/p>",
+    "options": [
+      "Liberia",
+      "Tunisia",
+      "Guinea",
+      "Nigeria"
+    ],
+    "answerIndex": 3,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>The centre piece of Nigeria foreign policy has remained&nbsp;<\/strong><\/p>",
+    "options": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "America"
+    ],
+    "answerIndex": 2,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>What does bush fallowing mean in agricultural pratise?<\/strong><\/p>",
+    "options": [
+      "intensive cultivation",
+      "agricultural production for cash",
+      "rotation of cultivated land to allow rejuvenation of exhausted plots",
+      "permanent cultivation"
+    ],
+    "answerIndex": 3,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>One of the steel rolling mills in Nigeria is located in&nbsp;<\/strong><\/p>",
+    "options": [
+      "Ajaokuta",
+      "Jos",
+      "Enugu",
+      "Ovwian-Aladja"
+    ],
+    "answerIndex": 1,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>What is the major environmental hazard facing the people of the Sahel and Northern Sudan Savanna<\/strong><\/p>",
+    "options": [
+      "locust invasion",
+      "harmattan",
+      "overgrazing",
+      "drought"
+    ],
+    "answerIndex": 4,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>Industralization in Nigeria can best be promoted through the development of&nbsp;<\/strong><\/p>",
+    "options": [
+      "textile manufacturing",
+      "vegetable oil processing",
+      "iron and steel processing",
+      "automatic manufacturing"
+    ],
+    "answerIndex": 3,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>Which of the following has the main objective to differentiate between similar products from different manufacturers<\/strong><\/p>",
+    "options": [
+      "mark",
+      "packaging",
+      "wrapping",
+      "branding"
+    ],
+    "answerIndex": 4,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>Which of the following requires indirect advertising?<\/strong><\/p>",
+    "options": [
+      "baby milk",
+      "detergent",
+      "text books",
+      "soccer books"
+    ],
+    "answerIndex": 1,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>One of the objectives of Nigeria's current population policy is to&nbsp;<\/strong><\/p>",
+    "options": [
+      "increase the birth rate",
+      "reduce HIV\/AIDS",
+      "reduce the birth rate",
+      "enhance longetivity"
+    ],
+    "answerIndex": 3,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>Which of the following is not and instrument of monetary control by the central bank?<\/strong><\/p>",
+    "options": [
+      "expansionist policy",
+      "open market operations",
+      "moral suasion",
+      "bank rate"
+    ],
+    "answerIndex": 1,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>Under the Nigerian Structural Adjustment Programme, the market for agricultural commodities in Nigeria has been placed under<\/strong><\/p>",
+    "options": [
+      "the marketing boards",
+      "private investors and individuals",
+      "the river basin authorities",
+      "the commodity boards"
+    ],
+    "answerIndex": 1,
+    "examYear": "2005"
+  },
+  {
+    "question": "<p><strong>A tax that takes an inceasing fraction of income as income goes down is known as<\/strong><\/p>",
+    "options": [
+      "restrictive tax",
+      "regressive tax",
+      "proportional tax",
+      "progressive tax"
+    ],
+    "answerIndex": 2,
+    "examYear": "2005"
+  }
+]

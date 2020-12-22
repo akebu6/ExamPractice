@@ -130,7 +130,7 @@ class AuthenticationFragment : DialogFragment() {
             Toast.makeText(context,"Enter all information", Toast.LENGTH_LONG).show()
             return false
         }
-        val pk= listOf("9","F","Q","K","3","L","X","5","3","2").shuffled().joinToString(separator = "",postfix = "")
+        val pk= listOf("9","F","Q","K","3","L","X","5","7","2").shuffled().joinToString(separator = "",postfix = "")
         val prefs: SharedPreferences = PreferenceHelper.defaultPrefs(requireContext())
 
         usersProductKey = pk.replace("","")

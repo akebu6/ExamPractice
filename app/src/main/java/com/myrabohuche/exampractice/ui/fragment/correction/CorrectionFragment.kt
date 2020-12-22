@@ -1,34 +1,33 @@
 package com.myrabohuche.exampractice.ui.fragment.correction
 
 import android.os.Bundle
+import android.os.Handler
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ListView
+import android.widget.RadioGroup
+import androidx.appcompat.app.AlertDialog
+import androidx.navigation.fragment.findNavController
 import com.myrabohuche.exampractice.R
-
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
-
+import com.myrabohuche.exampractice.model.Question
+import com.myrabohuche.exampractice.model.QuestionBank
+import kotlinx.android.synthetic.main.fragment_correction.*
 /**
  * A simple [Fragment] subclass.
- * Use the [CorrectionFragment.newInstance] factory method to
- * create an instance of this fragment.
  */
 class CorrectionFragment : Fragment() {
-    // TODO: Rename and change types of parameters
-    private var param1: String? = null
-    private var param2: String? = null
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
-        }
-    }
+    private var mQuestionBank: QuestionBank? = QuestionBank(ArrayList())
+    private var mCurrentQuestion: Question? = null
+
+    private var wrongQuests = arrayOf<Question>()
+
+    private var m_parts = arrayListOf<String>()
+    private var listView: ListView? = null
+    private var mNumberOfQuestions: Int = 0
+    private var radioGroup: RadioGroup? = null
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -38,23 +37,70 @@ class CorrectionFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_correction, container, false)
     }
 
-    companion object {
-        /**
-         * Use this factory method to create a new instance of
-         * this fragment using the provided parameters.
-         *
-         * @param param1 Parameter 1.
-         * @param param2 Parameter 2.
-         * @return A new instance of fragment CorrectionFragment.
-         */
-        // TODO: Rename and change types and number of parameters
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            CorrectionFragment().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+
+        wrongQuests = CorrectionFragmentArgs.fromBundle(requireArguments()).wrongAnsArgInWrong!!
+        radioGroup=questionRadioGroup
+
+        mQuestionBank = generateQuestions()
+        mCurrentQuestion = mQuestionBank!!.question
+        mNumberOfQuestions=mQuestionBank!!.mQuestionList.size
+
+        mCurrentQuestion = mQuestionBank!!.question
+        displayQuestion(mCurrentQuestion!!)
+
+
+//        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+//            override fun handleOnBackPressed() {
+//                if (isEnabled){
+//
+//                    findNavController().navigateUp()
+//                    isEnabled=true
+//
+//                }
+//            }
+//        })
+
+        submitButton.setOnClickListener{
+            --mNumberOfQuestions
+            if (mNumberOfQuestions != 0){
+                if (mNumberOfQuestions == 1)
+                    submitButton.text="Finish"
+                Handler().postDelayed(Runnable {
+                    activity?.let {
+                        mCurrentQuestion = mQuestionBank!!.question
+                        displayQuestion(mCurrentQuestion!!)
+                    }
+                },1000)
+
+            }else{
+                val builder = AlertDialog.Builder(requireContext())
+
+                builder.setTitle("Nice Game!")
+                    .setMessage("Congratulations")
+                    .setPositiveButton("OK") { _, _ ->
+
+                        findNavController().navigateUp()
+                    }
+                    .setCancelable(false)
+                    .create()
+                    .show()
             }
+        }
+    }
+    private fun generateQuestions(): QuestionBank? {
+        val questionList: List<Question> = wrongQuests.toList()
+        return QuestionBank(questionList)
+    }
+
+    private fun displayQuestion(question: Question) {
+
+        questionText.text = question.question
+        firstAnswerRadioButton.text = question.options[0]
+        secondAnswerRadioButton.text = question.options[1]
+        thirdAnswerRadioButton.text = question.options[2]
+        fourthAnswerRadioButton.text = question.options[3]
+        questionRightAnns.text="Ans = "+mCurrentQuestion!!.options[mCurrentQuestion!!.answerIndex - 1]
+
     }
 }
