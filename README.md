@@ -7,7 +7,7 @@
 * After any change on the project
 
 ### Pull Request
-* Create a pull request against [main] branch
+* Create a pull request against [development] branch
 * Ensure your branch is up to date with latest changes
 * reference the issue you worked on in your PR
 * Explain what your PR does
