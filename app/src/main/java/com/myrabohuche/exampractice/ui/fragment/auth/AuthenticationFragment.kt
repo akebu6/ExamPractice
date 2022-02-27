@@ -6,8 +6,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.DialogFragment
 import androidx.lifecycle.observe
+import androidx.navigation.fragment.findNavController
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.textfield.TextInputEditText
 import com.myrabohuche.exampractice.R
@@ -18,6 +20,7 @@ import com.myrabohuche.exampractice.databinding.SuccessDialogBinding
 import com.myrabohuche.exampractice.datasource.network.LoadingStatus
 import com.myrabohuche.exampractice.ui.activity.MainActivity
 import com.myrabohuche.exampractice.utils.PreferenceHelper
+import com.myrabohuche.exampractice.utils.PreferenceHelper.get
 import com.myrabohuche.exampractice.utils.PreferenceHelper.set
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
@@ -55,52 +58,66 @@ class AuthenticationFragment : DialogFragment() {
         otherNames = binding.otherNamesField
         phoneNumb = binding.phoneNameField
 
-        binding.registerButton.setOnClickListener {
+//        binding.registerButton.setOnClickListener {
+//
+//            confirmationDialogBinding =
+//                ConfirmationDialogBinding.inflate(inflater, container, false)
+//            val dialog =
+//                MaterialAlertDialogBuilder(requireContext())
+//                    .setView(confirmationDialogBinding.root)
+//                    .setCancelable(false)
+//                    //getDialog()!!.getWindow()?.setBackgroundDrawableResource(R.drawable.round_corner)
+//                    .show()
+//            dialog.window!!.setBackgroundDrawableResource(R.drawable.round_corner)
+//            val width = (resources.displayMetrics.widthPixels * 0.65).toInt()
+//            val height = (resources.displayMetrics.heightPixels * 0.30).toInt()
+//            dialog!!.window?.setLayout(width, ViewGroup.LayoutParams.WRAP_CONTENT)
+//            confirmationDialogBinding.imageView.setOnClickListener {
+//                //dismissDialog(dialog)
+//            }
+//            confirmationDialogBinding.button.setOnClickListener {
+//                //makeSubmission()
+//                //dismissDialog(dialog)
+//            }
+//        }
 
-            confirmationDialogBinding =
-                ConfirmationDialogBinding.inflate(inflater, container, false)
-            val dialog =
-                MaterialAlertDialogBuilder(requireContext())
-                    .setView(confirmationDialogBinding.root)
-                    .setCancelable(false)
-                    //getDialog()!!.getWindow()?.setBackgroundDrawableResource(R.drawable.round_corner)
-                    .show()
-            dialog.window!!.setBackgroundDrawableResource(R.drawable.round_corner)
-            val width = (resources.displayMetrics.widthPixels * 0.65).toInt()
-            val height = (resources.displayMetrics.heightPixels * 0.30).toInt()
-            dialog!!.window?.setLayout(width, ViewGroup.LayoutParams.WRAP_CONTENT)
-            confirmationDialogBinding.imageView.setOnClickListener {
-                dismissDialog(dialog)
-            }
-            confirmationDialogBinding.button.setOnClickListener {
-                makeSubmission()
-                dismissDialog(dialog)
-            }
-        }
+//        viewModel.loadingStatus.observe(viewLifecycleOwner) {
+//            when (it) {
+//                is LoadingStatus.Loading -> mainActivity.showLoading(it.message)
+//                is LoadingStatus.Success -> mainActivity.dismissLoading()
+//                is LoadingStatus.Error -> mainActivity.dismissLoading()
+//            }
+//        }
+//        viewModel.success.observe(viewLifecycleOwner) {
+//            successDialogBinding = SuccessDialogBinding.inflate(inflater, container, false)
+//            failureDialogBinding = FailureDialogBinding.inflate(inflater, container, false)
+//            when (it) {
+//                true -> {
+//                    showDialog(successDialogBinding.root)
+//                    //viewModel.resetSuccessValue()
+//                    findNavController().navigate(R.id.action_authenticationFragment_to_paymentDetailsFragment)
+//                    //findNavController().navigateUp()
+//                    //Toast.makeText(context,"$usersProductKey", Toast.LENGTH_LONG).show()
+//                }
+//                false -> {
+//                    showDialog(failureDialogBinding.root)
+//                    val pk= "wrongproductkey"
+//                    val prefs: SharedPreferences = PreferenceHelper.defaultPrefs(requireContext())
+//                    prefs["1"] = pk
+//                    //Toast.makeText(context,"$usersProductKey", Toast.LENGTH_LONG).show()
+//                    //viewModel.resetSuccessValue()
+//                }
+//            }
+//        }
 
-        viewModel.loadingStatus.observe(viewLifecycleOwner) {
-            when (it) {
-                is LoadingStatus.Loading -> mainActivity.showLoading(it.message)
-                is LoadingStatus.Success -> mainActivity.dismissLoading()
-                is LoadingStatus.Error -> mainActivity.dismissLoading()
-            }
-        }
-        viewModel.success.observe(viewLifecycleOwner) {
-            successDialogBinding = SuccessDialogBinding.inflate(inflater, container, false)
-            failureDialogBinding = FailureDialogBinding.inflate(inflater, container, false)
-            when (it) {
-                true -> {
-                    showDialog(successDialogBinding.root)
-                    //viewModel.resetSuccessValue()
-                    Toast.makeText(context,"$usersProductKey", Toast.LENGTH_LONG).show()
-                }
-                false -> {
-                    showDialog(failureDialogBinding.root)
-                    Toast.makeText(context,"$usersProductKey", Toast.LENGTH_LONG).show()
-                    //viewModel.resetSuccessValue()
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                if (isEnabled){
+                    findNavController().navigateUp()
+                    isEnabled=true
                 }
             }
-        }
+        })
         return binding.root
     }
 
@@ -126,7 +143,7 @@ class AuthenticationFragment : DialogFragment() {
     }
 
     private fun getValidInput(): Boolean {
-        if (binding.surnameNameField.text.isNullOrEmpty() || binding.otherNamesField.text.isNullOrEmpty() || binding.phoneNameField.text.isNullOrEmpty()) {
+        if (binding.surnameNameField.text.isNullOrEmpty() || binding.phoneNameField.text.isNullOrEmpty()) {
             Toast.makeText(context,"Enter all information", Toast.LENGTH_LONG).show()
             return false
         }
@@ -136,6 +153,21 @@ class AuthenticationFragment : DialogFragment() {
         usersProductKey = pk.replace("","")
         prefs["1"] = usersProductKey
         return true
+    }
+
+    override fun onStart() {
+
+        val prefs: SharedPreferences = PreferenceHelper.defaultPrefs(requireContext())
+        //val isUserActivated = prefs["2", "no"]
+        val isUserDetailsStored = prefs["1", "wrongproductkey"]
+
+        if (isUserDetailsStored.equals("wrongproductkey")) {
+            Toast.makeText(context, "Do fill  all the required fields", Toast.LENGTH_LONG).show()
+        }else {
+            findNavController().navigate(R.id.action_authenticationFragment_to_paymentDetailsFragment)
+            //findNavController().popBackStack()
+        }
+        super.onStart()
     }
 
 }

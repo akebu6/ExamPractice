@@ -1,1 +1,1410 @@
-[]
+[
+  {
+    "question": "<p><b>The micronucleus of a paramecium is primarily involved in___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "heredity and reproduction",
+      "growth",
+      "metabolism",
+      "feeding."
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p>___ carry(ies) impulse from the main nervous system towards a gland.&nbsp;<\/p>",
+    "options": [
+      "motor nerve",
+      "effectors",
+      "response",
+      "muscle"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The interaction of different kinds of organisms that occur together at a particular place is called___&nbsp;<\/b><br><\/p>",
+    "options": [
+      "ecosystem",
+      "community",
+      "biome",
+      "ecology"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The presence of two distinct types of nuclei is called___&nbsp;<\/b><br><\/p>",
+    "options": [
+      "nuclear metamorphosis",
+      "nuclear dimorphism",
+      "nuclear polymorphism",
+      "nuclear reaction"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;___ is the site of information processing<\/b><br><\/p>",
+    "options": [
+      "central nervous system",
+      "peripheral nervous system",
+      "cerebral hemisphere",
+      "dicephalon"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The set of organisms together with the non-living factor with which it interacts is___&nbsp;<\/b><br><\/p>",
+    "options": [
+      "ecology",
+      "community",
+      "biome",
+      "ecosystem"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Muscles or glands which on receiving an impulse from the brain or spinal cord contract or secrete substances<\/b><br><\/p>",
+    "options": [
+      "effectors",
+      "response",
+      "receptors",
+      "nerve"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Spirogyra, Euglena and Chlamydomonas share many characteristics except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "nutrition",
+      "reproduction",
+      "mobility",
+      "rritability"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A wave of electrical disturbance that travels across the nerve cell and its fibres___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "sensory",
+      "nerve",
+      "motor",
+      "impulse"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Inbreeding endangers a small population than a large population.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "true",
+      "false",
+      "undecided",
+      "a and b"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of the following organisms exist as a filament?<\/b><br><\/p>",
+    "options": [
+      "euglena",
+      "volvox",
+      "eudorina",
+      "spirogyra"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>An agent that results in the change of the activities of the organism is___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "stimulus",
+      "impulse",
+      "response",
+      "nerve"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The portion of the cell cycle in which the condensed chromosomes are not visible___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "chiasmata",
+      "metaphase",
+      "interphase",
+      "prophase"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;Change in the activity of the organism caused due to stimulus is&nbsp; ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "gland",
+      "neurons",
+      "motor",
+      "response"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Mammals that lay eggs are called___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "marsupial",
+      "amphibians",
+      "placental",
+      "monotremes"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The following animals have four-chamber in their heart except for ___.<\/b><br><\/p>",
+    "options": [
+      "lizard",
+      "man",
+      "cow",
+      "dog"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The following living organisms are eukaryotic except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "spirogyra",
+      "amoeba",
+      "bacteria",
+      "volvox"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Animals which have true body cavity are referred to as ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "coelomate",
+      "acoelomate",
+      "choelomate",
+      "pseudocoelomate"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The following are cold blooded animals except ___<\/b><br><\/p>",
+    "options": [
+      "lizard",
+      "toad",
+      "duck",
+      "snake"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Annelids are commonly called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "roundworms",
+      "ringworms",
+      "flatworms",
+      "wrinkle worms"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The end product of glycolysis is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "citric acid",
+      "pyruvic acid",
+      "malic acid",
+      "acetic acid"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Anaerobic respiration in yeast produces___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "carbondioxide and ethanol",
+      "carbondioxide and water",
+      "carbondioxide and glucose",
+      "ethanol and water"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Stomata pores open when there is___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "an increase in the sugar content of guards cells",
+      "a decrease in osmotic concentration of guard cells",
+      "a decrease in the sugar content of mesophlyll cells",
+      "an increase in the sugar content of mesophyll cells."
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A ___ sphincter controls the rate of flow of chyme from the stomach into the small intestine.<\/b><br><\/p>",
+    "options": [
+      "cardiac",
+      "cardiac",
+      "pylocardiac",
+      "cardiac"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The parotid gland is found in the __.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "small intestine",
+      "rectum",
+      "mouth",
+      "colon"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Bile is involved in the digestion of ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "protein",
+      "fat",
+      "glucose",
+      "carbohydrate"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Major digestion of food takes place within the ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "liver",
+      "small intestine",
+      "colon",
+      "none of the above"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;___ is the organ responsible for the production of insulin.<\/b><br><\/p>",
+    "options": [
+      "gastric gland",
+      "pancreas",
+      "kidney",
+      "liver"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Hydrochloric acid is found in ___.<\/b><br><\/p>",
+    "options": [
+      "sputum",
+      "rectum",
+      "colon",
+      "none of the above"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>___ is the semi-liquid found in the stomach.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "chime",
+      "cylli",
+      "chyme",
+      "chile"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The submaxillary gland belong to a group of glands found in the ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "stomach",
+      "colon",
+      "mouth",
+      "pancreas"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>If a cell is placed in a solution of higher concentration, the solution is said to be ___..<\/b><br><\/p>",
+    "options": [
+      "hypotonic",
+      "isotonic",
+      "maltonic",
+      "hypertonic"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The scientist who first made an attempt to classify living things is called___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "Carl Linneaus",
+      "Charles Darwin",
+      "Aristotle",
+      "Theodor"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The system of giving a two-word name to an organism is called___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "polynomial nomenclature",
+      "dinomial nomenclature",
+      "binomial nomenclature",
+      "biennial nomenclature"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Scientific names are written in what language? \r\n<\/b><br><\/p>",
+    "options": [
+      "German",
+      "Latin",
+      "English",
+      "Grammar"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of these types of skeleton is most appropriate to the cockroach?&nbsp;<\/b><br><\/p>",
+    "options": [
+      "hydrostatic skeleton",
+      "exoskeleton",
+      "endoskeleton",
+      "cartilaginous skeleton"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Proteins are broken down to provide ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "oxygen",
+      "carbohydrate",
+      "energy",
+      "amino acids"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<b>The function of the lenticels is ___.&nbsp;<\/b>",
+    "options": [
+      "to receive excess water in the plant",
+      "to absorb water from atmosphere",
+      "for gaseous exchange",
+      "to absorb light"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>One of the functions of xylem is ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "strengthening the stem",
+      "manufacturing food",
+      "conducting manufactured food",
+      "none of the above"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>People suffering from myopia ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "can see near objects clearly",
+      "can see far away",
+      "cannot see any objects clearly",
+      "are color-blind"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The cilia in paramecium are used for ___.<\/b><br><\/p>",
+    "options": [
+      "respiration",
+      "locomotion",
+      "protection",
+      "excretion"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The study of the organisms and the environment of abandoned farmland is the ecology of ___.<\/b><br><\/p>",
+    "options": [
+      "a community",
+      "a population",
+      "a species",
+      "an ecosystem"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>At fertilization ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "One chromosomes from the male joins another from the female",
+      "One gene from the male combines with the gene from another female",
+      "The male nucleus fuses with the female nucleus.",
+      "One set of chromosomes combines with another set from the female"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The neck region of the tapeworm (Tapeworm spp) is responsible for ___<\/b><br><\/p>",
+    "options": [
+      "the production of eggs",
+      "the storage of eggs",
+      "the formation of new segments",
+      "the development of the suckers"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of the following is characteristic is of the animal cell?<\/b><br><\/p>",
+    "options": [
+      "presence of chloroplasts",
+      "possession of cellulose cell wall",
+      "absence of large vacuoles",
+      "presence of large vacuoles"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>In the life history of Schistosoma (Bilharzia), one of the following is the intermediate host<\/b><br><\/p>",
+    "options": [
+      "man",
+      "snail",
+      "mosquito larva",
+      "fish"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The hormones which tone up the muscles of a person in the time danger is from the ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "thyroid gland",
+      "pancreas",
+      "adrenal gland",
+      "spleen"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The movement of molecules from a region of higher concentration to one of lower concentration is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "diffusion",
+      "transpiration",
+      "osmosis",
+      "plasmolysis"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The region of cell division in a root is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "root cap",
+      "endodermis",
+      "xylem",
+      "meristem"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of the following is not an excretory organ?<\/b><br><\/p>",
+    "options": [
+      "lungs",
+      "kidney",
+      "leaf",
+      "large intestine"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The part of the mammalian brain responsible for maintaining balance is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "cerebellum",
+      "medulla oblongata",
+      "cerebrum",
+      "hypothalamus"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A plant which grows on another plant without apparent harm to the host plant is called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "a parasite",
+      "a epiphyte",
+      "a saprophyte",
+      "a predator"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>6CO2 + 6H2O -----&gt; C6H12O6 + 6O2<\/b><\/p><p><b>The oxygen given off during the process in the above equation is derived from ___.&nbsp;<br><\/b><br><\/p>",
+    "options": [
+      "sunlight",
+      "water",
+      "carbon dioxide",
+      "atmosphere"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>When testing a leaf for starch, why is it first placed in boiling water?&nbsp;<\/b><\/p><p><br><\/p>",
+    "options": [
+      "To extract the chlorophyll",
+      "To remove colour from the leaf",
+      "To dissolve the starch",
+      "To stop chemical reaction"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The petals of a flower are collectively called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "calyx",
+      "capsule",
+      "carpel",
+      "corolla"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Osmosis can be defined as diffusion of:<\/b><br><\/p>",
+    "options": [
+      "Water molecules from an area of high concentration to an area of low concentration",
+      "Water molecules from a dilute solution to a concentrated solution across a permeable membrane",
+      "Water molecules from a concentrated solution to a dilute solution a semi-permeable membrane",
+      "Water molecules from a dilute solution to a concentrated solution through a semipermeable membrane."
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Structures found in cells are below: <\/b><\/p><p><b>i. Cell wall iv. Cytoplasm\r\nii. Cell membrane v. Nucleus\r\niii. Chloroplast vi. Sap vacuole&nbsp;<\/b><\/p><p><b>Which of these structures are found in both animal cells and plant cells?&nbsp;<br><\/b><br><\/p>",
+    "options": [
+      "I, ii, iii, iv and vi",
+      "ii, iii, iv, v, and vi",
+      "ii, iv, and v",
+      "all of the above"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The end product of glycolysis in plants and animals is___.<\/b><br><\/p>",
+    "options": [
+      "citric acid",
+      "pyruvic acid",
+      "malic acid",
+      "oxalacetic acid"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;___is concerned with the physical balance of the body.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "cochlea",
+      "vestibule",
+      "tympatum",
+      "malleus"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Stomata pores open where there is___<\/b><br><\/p>",
+    "options": [
+      "an increase in the sugar content of guard cells",
+      "a decrease in osmotic concentration of guard cells",
+      "a decrease in the sugar content of mesophyll cells",
+      "an increase in the sugar content of mesophyll cells"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The canals of the cochlea are filled with a fluid called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "cerebrospinal liquid",
+      "aqueous liquid",
+      "endolymph",
+      "endofluid"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The physical division of the cytoplasm into two daughter cells is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "prophase",
+      "metaphase",
+      "cytokinesis",
+      "telophase"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Complete oxidation of glucose molecule yields ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "2 ATP molecules",
+      "34 ATP molecules",
+      "38 ATP molecules",
+      "pyruvic acid"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>___ bring the impulse from the receptor to the main nervous system.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "brain",
+      "effectors",
+      "sensory nerve",
+      "motor"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>During respiration in man, the intercoastal muscles ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "relax",
+      "contract",
+      "expand",
+      "flattened"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The stage of mitosis characterized by the alignment of the chromosomes in a ring along the inner circumference\r\nof the cell is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "prophase",
+      "interphase",
+      "metaphase",
+      "anaphase"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Myopia is a ___ of the eye.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "defect",
+      "nature of image",
+      "ciliary body",
+      "cornea"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The characteristics of population include ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "niche",
+      "dispersion",
+      "biome",
+      "biotic potential"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The type II survivorship curve where the highest mortality occurs in life is represented by ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "hydra",
+      "oyster",
+      "man",
+      "none"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The binomial classification was introduced by ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "Antonio van Leewenhoek in 1674",
+      "Robert Hooke in 1665",
+      "Caroleus Linneaus in 1753",
+      "Schwann Pasteur in 1874"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Which of the following classification is based on evolutionary relationships?<\/b><br><\/p>",
+    "options": [
+      "phonetics",
+      "phylogenetic",
+      "natural",
+      "artificial"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>All of the following are characteristics of living things except&nbsp;<\/b><br><\/p>",
+    "options": [
+      "interaction",
+      "evolution",
+      "organization",
+      "sleeping"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A group of closely related families is called ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "kingdom",
+      "class",
+      "order",
+      "genus"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;The highest taxonomic rank in the hierarchy is ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "phylum",
+      "class",
+      "kingdom",
+      "species"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>All the following are kingdom except ___.<\/b><br><\/p>",
+    "options": [
+      "monera",
+      "fungi",
+      "yeastae",
+      "plantae"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The phylum is the same as ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "division",
+      "kingdom",
+      "genus",
+      "order"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;Maintenance of a constant internal environment is known as ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "buffer",
+      "balancing",
+      "homeostasis",
+      "maintenance"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>&nbsp;All the following are in the kingdom Plantae except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "mosses",
+      "ferns",
+      "flowering plants",
+      "fungus"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Movement of nutrients from mother to foetus through the placenta is by ___.<\/b><br><\/p>",
+    "options": [
+      "osmosis",
+      "diffusion",
+      "dilution",
+      "none of the above"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The following are multicellular organism except&nbsp; ___.<\/b><br><\/p>",
+    "options": [
+      "yeast",
+      "mucor",
+      "cockroach",
+      "fungi"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>An aggregate of cells is called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "organ",
+      "system",
+      "tissue",
+      "heart"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>DNA is made of the following except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "phosphate group",
+      "nucleic acid",
+      "ribose sugar",
+      "lipid"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>A chloroplast is found in the following organism except ___.<\/b><br><\/p>",
+    "options": [
+      "spirogyra",
+      "pride of Barbados",
+      "amoeba",
+      "hydra"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Photosynthetic material in green-sulphur bacteria is called ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "ribosome",
+      "lysosome",
+      "chloroplast",
+      "chlorosome"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Eukaryotic chromosome is complexed with ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "histone",
+      "histantine",
+      "protein",
+      "peptone"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Heat resistant in bacterial endospore is due to ___.&nbsp;&nbsp;<\/b><br><\/p>",
+    "options": [
+      "dipicolinate acid",
+      "diphenylamine",
+      "dimethyloxide",
+      "cellulose"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Plant cell and animal cell have the following organelles in common except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "nucleus",
+      "Cell membrane",
+      "mitochondria",
+      "centrosomes"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The following organisms exist at the tissue level except ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "hydra",
+      "euglena",
+      "sponges",
+      "algae"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>The chemical reaction from which an organism obtain its energy is ___.<\/b><br><\/p>",
+    "options": [
+      "external respiration",
+      "cellular respiration",
+      "internal respiration",
+      "aerobic respiration"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Hydrochloric acid in the stomach ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "kills micro organism",
+      "destroy enzymes",
+      "enhances digestion",
+      "all of the above"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Villi\r\nincreases absorption in ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "large intestine",
+      "stomach lining",
+      "small intestine",
+      "none of the above"
+    ],
+    "answerIndex": 3,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Oxygenated blood is carried by all ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "arteries",
+      "veins",
+      "pulmonary arteries",
+      "pulmonary veins"
+    ],
+    "answerIndex": 4,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Formation of glycogen is in the ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "liver",
+      "gall bladder",
+      "small intestine",
+      "pancreas"
+    ],
+    "answerIndex": 1,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Antibodies are produced by ___.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "leucocyte",
+      "lymphocyte",
+      "neutrophiles",
+      "none of the above"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><b>Bile is found in the intestine ____.&nbsp;<\/b><br><\/p>",
+    "options": [
+      "at all times",
+      "during digestion",
+      "at no time",
+      "during churning"
+    ],
+    "answerIndex": 2,
+    "examYear": "null"
+  },
+  {
+    "question": "<p><strong>____________ is an end product of digestion of fat.<\/strong><\/p>",
+    "options": [
+      "Glucose",
+      "Fatty acid",
+      "Amino acid",
+      "Fructose"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Asexual reproduction in Hydra sp. is commonly by ____<\/strong><\/p>",
+    "options": [
+      "Binary fission",
+      "Fragmentation",
+      "Budding",
+      "Separation"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Benedict&rsquo;s solution is used to test for ___&nbsp;<\/strong><\/p>",
+    "options": [
+      "Carbohydrate",
+      "Lipid",
+      "Protein",
+      "Vitamins"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Pepsin is an enzyme that digests ___&nbsp;<\/strong><\/p>",
+    "options": [
+      "Starch",
+      "Sugar",
+      "Lipid",
+      "Protein"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The enzyme that curdles milk is_____________&nbsp;<\/strong><\/p>",
+    "options": [
+      "Pepsin",
+      "Ptyalin",
+      "Rennin",
+      "Amylase"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which is the enzyme that begins the digestion of starch in the mouth?<\/strong><\/p>",
+    "options": [
+      "Ptyalin",
+      "Maltase",
+      "Amylase",
+      "Sucrase"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Autotrophs are also described as _____<\/strong><\/p>",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Carnivores",
+      "Producers"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>During digestion of food, the passage of chyme through the duodenum enables it to become a watery liquid called__________<\/strong><\/p>",
+    "options": [
+      "Digested food",
+      "Chymatic product",
+      "Chyle",
+      "Soluble"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>In the respiratory system of man, diffusion of gases takes place in<\/strong><\/p>",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Alveoli",
+      "Bronchioles"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Tadpoles respire with&nbsp;<\/strong><\/p>",
+    "options": [
+      "Lungs",
+      "Nostril",
+      "Gills",
+      "Spiracles"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The basis for growth and asexual reproduction is&nbsp;&nbsp;<\/strong><\/p>",
+    "options": [
+      "Meiosis",
+      "Cytokinesis",
+      "Mitosis",
+      "Cytogenesis"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The process which ensures that the chromosome number for each species of organism remain constant from generation to generation is called<\/strong><\/p>",
+    "options": [
+      "Fission",
+      "Fusion",
+      "Meiosis",
+      "Mitosis"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of the following is a major factor in variation among organisms?&nbsp;<\/strong><\/p>",
+    "options": [
+      "Inbreeding",
+      "Backcrossing",
+      "Test crossing",
+      "Sexual reproduction"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>____________ is an example of an invertebrate&nbsp;<\/strong><\/p>",
+    "options": [
+      "Millipede",
+      "Fish",
+      "Toad",
+      "Snake"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>_____________ is an example of a unicellular organism&nbsp;<\/strong><\/p>",
+    "options": [
+      "Amoeba sp.",
+      "Hydra sp.",
+      "Ascaris sp.",
+      "Taenia sp."
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The mutation theory of organic evolution was propounded by&nbsp;<\/strong><\/p>",
+    "options": [
+      "Gregor Mendel",
+      "Hugo de Vries",
+      "Jean Lamarck",
+      "Charles Darwin"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The theory of natural selection was developed by&nbsp;<\/strong><\/p>",
+    "options": [
+      "Lamarck and Darwin",
+      "Darwin and Wallace",
+      "Wallace and Mendel",
+      "Mendel and Lamarck"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of the following sources is not an evidence of evolution?<\/strong><\/p>",
+    "options": [
+      "Fossil records",
+      "Comparative anatomy",
+      "Comparative embryology",
+      "Human behavior"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>_______________ is an endoparasite&nbsp;<\/strong><\/p>",
+    "options": [
+      "Earthworm",
+      "Tapeworm",
+      "Mosquito",
+      "Housefly"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The following are major groups of the plant kingdom EXCEPT&nbsp;<\/strong><\/p>",
+    "options": [
+      "Bryophyta",
+      "Chlorophyta",
+      "Pteridophyta",
+      "Spermatophyta"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>_____________is a form of sexual reproduction&nbsp;<\/strong><\/p>",
+    "options": [
+      "Grafting",
+      "Budding",
+      "Fission",
+      "Conjugation"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Sexual reproduction in Spirogyra is called&nbsp;<\/strong><\/p>",
+    "options": [
+      "Fertilization",
+      "Symbiosis",
+      "Conjugation",
+      "Reproduction"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The carrier of the hereditary characters in plants is the&nbsp;<\/strong><\/p>",
+    "options": [
+      "Cell",
+      "Nucleus",
+      "Chromosome",
+      "Gene"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>All are necessary for photosynthesis except_____________&nbsp;<\/strong><\/p>",
+    "options": [
+      "Water",
+      "Chlorophyll",
+      "Sunlight",
+      "Oxygen"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which is the correct order in an evolutionary sequence for the following plant groups?&nbsp;<\/strong><\/p>",
+    "options": [
+      "Bacteria - ferns - algae - mosses - seed plants.",
+      "Bacteria - ferns - mosses - algae - seed plants.",
+      "Bacteria - algae - mosses - ferns - seed plants.",
+      "Bacteria - mosses - algae - ferns - seed plants."
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>What type of fruit is a mango fruit?&nbsp;<\/strong><\/p>",
+    "options": [
+      "Berry",
+      "Hesperidium",
+      "Drupe",
+      "Nut"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of the following species exhibit an aerial root?&nbsp;<\/strong><\/p>",
+    "options": [
+      "Ficus",
+      "Centrosema",
+      "Antigonon",
+      "Lantana"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>An example of Vascular tissues is __________<\/strong><\/p>",
+    "options": [
+      "Trichome",
+      "Xylem",
+      "Stomata",
+      "Epidermis"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>The living part of phloem tissue is&nbsp;&nbsp;<\/strong><\/p>",
+    "options": [
+      "Sieve plate",
+      "Companion cell",
+      "Sieve element",
+      "Cytoplasm"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of the following tissues are made up of dead cells&nbsp;<\/strong><\/p>",
+    "options": [
+      "Meristems",
+      "Xylem vessels",
+      "Cambium",
+      "Mesophyll"
+    ],
+    "answerIndex": 2,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>A plant vacuole contains<\/strong><\/p>",
+    "options": [
+      "Dissolved chemicals, sugars, salts, pigments and crystals",
+      "Waste products of metabolism, DNA, RNA and crystals",
+      "Pigments, crystals, DNA and waste products of metabolism",
+      "RNA, DNA, sugars and salts"
+    ],
+    "answerIndex": 1,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Starch granules in plants is equivalent to _____________ granules in animals&nbsp;<\/strong><\/p>",
+    "options": [
+      "Food",
+      "Chromatin",
+      "Lysosome",
+      "Glycogen"
+    ],
+    "answerIndex": 4,
+    "examYear": "2015"
+  },
+  {
+    "question": "<p><strong>Which of the following is a plant excretory product?&nbsp;&nbsp;<\/strong><\/p>",
+    "options": [
+      "Oil",
+      "Cytokinin",
+      "Resin",
+      "Amino acids"
+    ],
+    "answerIndex": 3,
+    "examYear": "2015"
+  }
+]

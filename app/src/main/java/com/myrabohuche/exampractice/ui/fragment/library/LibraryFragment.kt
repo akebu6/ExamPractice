@@ -5,8 +5,10 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.activity.OnBackPressedCallback
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.myrabohuche.exampractice.databinding.LibraryFragmentBinding
 
@@ -32,7 +34,8 @@ class LibraryFragment : Fragment() {
 
         binding.setLifecycleOwner(this)
         binding.booksRecyclerView.adapter = adapter
-
+        val manager = LinearLayoutManager(context)
+        binding.booksRecyclerView.layoutManager = manager
 
         viewModel.downloadedBooks.observe(viewLifecycleOwner, Observer { newBooks ->
             if (newBooks == null){
@@ -46,8 +49,15 @@ class LibraryFragment : Fragment() {
             }
         })
 
-        val manager = LinearLayoutManager(context)
-        binding.booksRecyclerView.layoutManager = manager
+
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                if (isEnabled){
+                    findNavController().navigateUp()
+                    isEnabled=true
+                }
+            }
+        })
 
         return binding.root
     }

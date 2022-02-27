@@ -13,6 +13,7 @@ class HomeViewModel : ViewModel() {
     var jambExam: List<Exam> = arrayListOf(
         Exam(
             listOf(
+                "English Language",
                 "Principles Of Accounts",
                 "Agricultural Science",
                 "Biology",
@@ -20,7 +21,6 @@ class HomeViewModel : ViewModel() {
                 "Christian Religious Knowledge",
                 "Commerce",
                 "Economics",
-                "English Language",
                 "Fine Arts",
                 "French",
                 "Geography",
@@ -32,10 +32,10 @@ class HomeViewModel : ViewModel() {
                 "Music",
                 "Physics",
                 "Sweet Sixteen"),
-            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour", "2 hours"),
+            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour"),
             listOf(
                 "All Schools"),
-            listOf("40", "20", "30", "50", "70", "100"),
+            listOf("40", "20", "30", "50","60", "70","80","90", "100"),
             "JAMB"
         )
     )
@@ -53,18 +53,18 @@ class HomeViewModel : ViewModel() {
     var postUtmeExam: List<Exam> = arrayListOf(
         Exam(
             listOf(
+                "English Language",
                 "Biology",
                 "Chemistry",
                 "Commerce",
                 "Economics",
-                "English Language",
                 "Geography",
                 "General Paper",
                 "Government",
                 "Literature in English",
                 "Mathematics",
                 "Physics"),
-            listOf("5 minutes", "15 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour", "2 hours"),
+            listOf("5 minutes", "15 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour"),
 
             listOf(
                 "Adekunle Ajasin University",
@@ -76,11 +76,10 @@ class HomeViewModel : ViewModel() {
                 "Nnamdi Azikiwe University",
                 "Obafemi Awolowo University",
                 "University Of Benin",
-                "University Of Calabar",
                 "University Of Ibadan",
                 "University Of Lagos",
                 "University Of Nigeria"),
-            listOf("15", "10", "20", "30", "40", "50", "70", "100"),
+            listOf("15", "10", "5", "30", "20", "25"),
             "Post UTME"
         )
     )
@@ -98,6 +97,7 @@ class HomeViewModel : ViewModel() {
     var waecExam: List<Exam> = arrayListOf(
         Exam(
             listOf(
+                "English Language",
                 "Accounts",
                 "Agricultural Science",
                 "Christian Religious Knowledge",
@@ -106,14 +106,13 @@ class HomeViewModel : ViewModel() {
                 "Biology",
                 "Chemistry",
                 "Economics",
-                "English Language",
                 "Government",
                 "Literature In English",
                 "Mathematics",
                 "Physics"),
-            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour", "2 hours"),
+            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour"),
             listOf("All Schools"),
-            listOf("40", "20", "30", "50", "70", "100"),
+            listOf("40", "20", "30", "50","60", "70","80","90", "100"),
             "WAEC"
         )
     )
@@ -131,6 +130,7 @@ class HomeViewModel : ViewModel() {
     var necoExam: List<Exam> = arrayListOf(
         Exam(
             listOf(
+                "English Language",
                 "Accounts",
                 "Agricultural Science",
                 "Christian Religious Knowledge",
@@ -139,14 +139,13 @@ class HomeViewModel : ViewModel() {
                 "Biology",
                 "Chemistry",
                 "Economics",
-                "English Language",
                 "Government",
                 "Literature In English",
                 "Mathematics",
                 "Physics"),
-            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour", "2 hours"),
+            listOf( "15 minutes", "5 minutes", "10 minutes" , "20 minutes", "30 minutes", "50 minutes", "1 hour"),
             listOf("All Schools"),
-            listOf("40", "20", "30", "50", "70", "100"),
+            listOf("40", "20", "30", "50","60", "70","80","90", "100"),
             "NECO"
         )
     )

@@ -12,9 +12,11 @@ import android.view.ViewGroup
 import android.widget.RadioGroup
 import android.widget.TextView
 import android.widget.Toast
+import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.text.HtmlCompat
+import androidx.navigation.findNavController
 import androidx.navigation.fragment.findNavController
 import com.myrabohuche.exampractice.R
 import com.myrabohuche.exampractice.databinding.FragmentQuizBinding
@@ -88,6 +90,7 @@ class QuizFragment : Fragment() {
         timeLeft = minuteToMilliSecond(timeArgs!!)
 
         mQuestionBank = generateQuestions()
+        //mNumberOfQuestions = mQuestionBank!!.mQuestionList.size + mNumberOfQuestions - mQuestionBank!!.mQuestionList.size
 
         txtQuestionCount = binding.questionCount
         txtCounter = binding.timeCounter
@@ -136,17 +139,45 @@ class QuizFragment : Fragment() {
                 endGame()
             }
         }
+
 //        binding.backButton.setOnClickListener {
-//            if (qCounter >= 1){
-//                //mNumberOfQuestions++
-//                --qCounter
-//                txtQuestionCount!!.text = "Quest: $qCounter"
-//                mCurrentQuestion = mQuestionBank!!.question
+//
+//            if (mNumberOfQuestions  != 0) {
+//
+//                mCurrentQuestion = mQuestionBank!!.questionBack
 //                displayQuestion(mCurrentQuestion!!)
+//                mNumberOfQuestions++
+//
+//            }else{
+//                backButton.text = "End"
+//                Toast.makeText(context,"No previous questions", Toast.LENGTH_LONG).show()
 //            }
 //        }
 
         //txtView!!.text = "$subjArgs \n $quesArgs \n $timeArgs \n $schoolArgs"
+
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                val builder = AlertDialog.Builder(context!!)
+
+                builder.setTitle("Warning!")
+                    .setMessage("Do you really want to terminate quiz? ")
+                    .setPositiveButton("YES") { _, _ ->
+                        countDownTimer!!.cancel()
+                        requireView().findNavController().navigateUp()
+                        remove()
+
+                    }
+                    .setNegativeButton("No"){_,_->
+                        isEnabled=true
+                    }
+                    .setCancelable(false)
+                    .create()
+                    .show()
+                return
+            }
+
+        })
 
         return binding.root
     }
@@ -170,6 +201,20 @@ class QuizFragment : Fragment() {
             .create()
             .show()
     }
+    private fun endBack() {
+        val builder = AlertDialog.Builder(requireContext())
+
+        builder.setTitle("Questions Ended!")
+            .setMessage("Can not go back")
+            .setPositiveButton("OK") { _, _ ->
+
+                //findNavController().navigate(action)
+                //onDestroyView()
+            }
+            .setCancelable(false)
+            .create()
+            .show()
+    }
 
     @InternalSerializationApi
     private fun generateQuestions(): QuestionBank? {
@@ -178,7 +223,8 @@ class QuizFragment : Fragment() {
             val inputStream: InputStream = requireContext().assets.open(url + ".json")
             val jsonFile = inputStream.bufferedReader().use { it.readText() }
             val json = Json(JsonConfiguration.Stable)
-            questionList = json.parse(Question.serializer().list, jsonFile).shuffled()
+            questionList = json.parse(Question.serializer().list, jsonFile).shuffled().subList(0, mNumberOfQuestions)
+            //questionList.size = questionList + mNumberOfQuestions - mNumberOfQuestions
         } catch (e: IOException) {
             e.printStackTrace()
             return null
@@ -190,17 +236,34 @@ class QuizFragment : Fragment() {
         qCounter++
         radioGroup!!.clearCheck()
         //binding.questionText.latex = htmlToText(question.question)
-        binding.questionText.setDisplayText(question.question)
-        binding.radio1.setDisplayText(question.options[0])
-        binding.radio2.setDisplayText(question.options[1])
-        binding.radio3.setDisplayText(question.options[2])
-        binding.radio4.setDisplayText(question.options[3])
+        binding.questionText.text = question.question
+        binding.radio1.text = question.options[0]
+        binding.radio2.text = question.options[1]
+        binding.radio3.text = question.options[2]
+        binding.radio4.text = question.options[3]
         //binding.secondAnswerRadioButton.text = question.options[1]
         //binding.thirdAnswerRadioButton.text = question.options[2]
         //binding.fourthAnswerRadioButton.text = question.options[3]
-        txtQuestionCount!!.text = "Quest: $mNumberOfQuestions/${question.question.length}"
+        txtQuestionCount!!.text = "Quest: $mNumberOfQuestions"
+        //txtQuestionCount!!.text = "Quest: $mNumberOfQuestions/${mQuestionBank!!.mQuestionList.size}"
 
     }
+//    private fun displayPreviousQuestion(question: Question) {
+//        --qCounter
+//        radioGroup!!.clearCheck()
+//        //binding.questionText.latex = htmlToText(question.question)
+//        binding.questionText.text = question.question
+//        binding.radio1.text = question.options[0]
+//        binding.radio2.text = question.options[1]
+//        binding.radio3.text = question.options[2]
+//        binding.radio4.text = question.options[3]
+//        //binding.secondAnswerRadioButton.text = question.options[1]
+//        //binding.thirdAnswerRadioButton.text = question.options[2]
+//        //binding.fourthAnswerRadioButton.text = question.options[3]
+//        txtQuestionCount!!.text = "Quest: $mNumberOfQuestions"
+//        //txtQuestionCount!!.text = "Quest: $mNumberOfQuestions/${mQuestionBank!!.mQuestionList.size}"
+//
+//    }
 
     private fun startCountDown() {
         countDownTimer = object : CountDownTimer(timeLeft, 1000) {

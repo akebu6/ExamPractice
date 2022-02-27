@@ -76,9 +76,9 @@ class CorrectionFragment : Fragment() {
             }else{
                 val builder = AlertDialog.Builder(requireContext())
 
-                builder.setTitle("Nice Game!")
-                    .setMessage("Congratulations")
-                    .setPositiveButton("OK") { _, _ ->
+                builder.setTitle("Finish!")
+                    .setMessage("Keep studying")
+                    .setPositiveButton("BACK") { _, _ ->
 
                         findNavController().navigateUp()
                     }
@@ -96,10 +96,10 @@ class CorrectionFragment : Fragment() {
     private fun displayQuestion(question: Question) {
 
         questionText.text = question.question
-        firstAnswerRadioButton.text = question.options[0]
-        secondAnswerRadioButton.text = question.options[1]
-        thirdAnswerRadioButton.text = question.options[2]
-        fourthAnswerRadioButton.text = question.options[3]
+        radio1.text = question.options[0]
+        radio2.text = question.options[1]
+        radio3.text = question.options[2]
+        radio4.text = question.options[3]
         questionRightAnns.text="Ans = "+mCurrentQuestion!!.options[mCurrentQuestion!!.answerIndex - 1]
 
     }

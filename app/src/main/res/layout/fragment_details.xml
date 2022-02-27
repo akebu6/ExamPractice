@@ -93,15 +93,17 @@ xmlns:tools="http://schemas.android.com/tools">
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtChapTitle">
 
-        <TextView
+
+        <io.github.kexanie.library.MathView
             android:id="@+id/txtBody"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="10dp"
             android:fontFamily="@font/graphikregular"
             android:lineSpacingExtra="4sp"
+            android:typeface="normal"
             android:padding="10dp"
-            android:text="Body of the text will be displayed here "
-            android:textColor="@color/textColor" />
+            android:textColor="@color/colorText" />
 
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

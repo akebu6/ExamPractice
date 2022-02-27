@@ -1,11 +1,14 @@
 package com.myrabohuche.exampractice.ui.fragment.startquiz
 
+import android.app.ProgressDialog
 import android.content.SharedPreferences
 import android.os.Bundle
+import android.os.Handler
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
+import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.myrabohuche.exampractice.R
@@ -31,6 +34,7 @@ class StartQuizFragment : Fragment() {
     private var valueTime: String = ""
     private var valueSchool: String = ""
     private var valueSuffix: String = ""
+    private var mProgressBar: ProgressBar? = null
 
     lateinit var subOption: Spinner
     lateinit var subResult: TextView
@@ -57,7 +61,7 @@ class StartQuizFragment : Fragment() {
         val isUserActivated = prefs["2", "no"]
 
         // Inflate the layout for this fragment
-        loginDialogBinding = LoginDialogBinding.inflate(inflater, container, false)
+        //loginDialogBinding = LoginDialogBinding.inflate(inflater, container, false)
         //moveToQuiz()
 
         binding = FragmentStartQuizBinding.inflate(inflater, container, false)
@@ -83,16 +87,22 @@ class StartQuizFragment : Fragment() {
         valueSuffix = exam.suffix
 
         titleText!!.text = "Welcome to ${valueSuffix} CBT Practice"
+        //mProgressBar = binding.progressBar
 
         binding.buttonId.setOnClickListener {
-            if (isUserActivated.equals("yes")) {
-                val action = StartQuizFragmentDirections.actionStartQuizFragmentToQuizFragment(valueSub,valueQues,valueTime,valueSchool, valueSuffix)
-                findNavController().navigate(action)
-
-            }else{
-                mainActivity.onLogin(loginDialogBinding.root)
-            }
+            val action = StartQuizFragmentDirections.actionStartQuizFragmentToQuizFragment(valueSub,valueQues,valueTime,valueSchool, valueSuffix)
+            findNavController().navigate(action)
         }
+//        binding.buttonId.setOnClickListener {
+//            if (isUserActivated.equals("yes") || valueSub == "English Language") {
+//                val action = StartQuizFragmentDirections.actionStartQuizFragmentToQuizFragment(valueSub,valueQues,valueTime,valueSchool, valueSuffix)
+//                findNavController().navigate(action)
+//
+//            }else{
+//                Toast.makeText(context,"You can attempt English Language for free", Toast.LENGTH_LONG).show()
+//                mainActivity.onLogin(loginDialogBinding.root)
+//            }
+//        }
 
         subOption.adapter = ArrayAdapter(requireContext(), R.layout.support_simple_spinner_dropdown_item, exam.subject)
         subOption.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
@@ -139,7 +149,6 @@ class StartQuizFragment : Fragment() {
         schoolOption.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
             override fun onNothingSelected(parent: AdapterView<*>?) {
                 schoolResult.text = "Please Select an Option"
-
             }
 
             override fun onItemSelected(parent: AdapterView<*>?, view: View?, position: Int, id: Long) {
@@ -148,6 +157,15 @@ class StartQuizFragment : Fragment() {
                 valueSchool = action1.toString()
             }
         }
+
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                if (isEnabled){
+                    findNavController().navigateUp()
+                    isEnabled=true
+                }
+            }
+        })
 
         return binding.root
     }

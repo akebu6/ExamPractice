@@ -35,7 +35,7 @@ class ResultFragment : Fragment() {
         val binding = FragmentResultBinding.inflate(inflater)
 
         wrongQuestQues = ResultFragmentArgs.fromBundle(requireArguments()).wrongAnsArgInResult!!
-        totalAns = ResultFragmentArgs.fromBundle(requireArguments()).totalAnswered-1
+        totalAns = ResultFragmentArgs.fromBundle(requireArguments()).totalAnswered - 1
         correctAns = ResultFragmentArgs.fromBundle(requireArguments()).correctAnswered
         wrongAns = ResultFragmentArgs.fromBundle(requireArguments()).wrongAnswered
 
@@ -56,7 +56,8 @@ class ResultFragment : Fragment() {
 
         txtResultDetails!!.text="Answered: $totalAns\nCorrect: $correctAns\nWrong: $wrongAns"
         val df = DecimalFormat("##.###")
-        val ans:Double = correctAns*2.50
+        val percentage = 100.toDouble() / totalAns
+        val ans:Double = correctAns*percentage
         txtPercentage!!.text=(""+df.format(ans)+"%")
 
         requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {

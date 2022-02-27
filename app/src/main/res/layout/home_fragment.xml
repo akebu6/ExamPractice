@@ -38,8 +38,8 @@ xmlns:tools="http://schemas.android.com/tools">
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/jambID"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -63,7 +63,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Jamb"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -73,8 +74,8 @@ xmlns:tools="http://schemas.android.com/tools">
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/postUtme"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -98,7 +99,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Post UTME"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -107,8 +109,8 @@ xmlns:tools="http://schemas.android.com/tools">
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/waecExam"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -132,7 +134,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="WAEC"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -141,8 +144,8 @@ xmlns:tools="http://schemas.android.com/tools">
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/necoExam"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -166,7 +169,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="NECO"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -176,8 +180,8 @@ xmlns:tools="http://schemas.android.com/tools">
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/libraryID"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -201,7 +205,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Library"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -209,9 +214,9 @@ xmlns:tools="http://schemas.android.com/tools">
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/syllabusID"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:id="@+id/communityID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:cardCornerRadius="10dp">
@@ -226,15 +231,16 @@ xmlns:tools="http://schemas.android.com/tools">
                     <ImageView
                         android:layout_width="120sp"
                         android:layout_height="120sp"
-                        app:srcCompat="@drawable/adobe_acrobat"
+                        app:srcCompat="@drawable/ic_chat"
                         android:layout_gravity="center_horizontal|center_vertical"
                         />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Syllabus"
-                        android:textSize="15sp"
+                        android:text="Community"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -249,8 +255,8 @@ xmlns:tools="http://schemas.android.com/tools">
                 app:cardCornerRadius="10dp">
 
                 <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:layout_margin="2dp"
                     android:padding="10dp">
@@ -266,7 +272,8 @@ xmlns:tools="http://schemas.android.com/tools">
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Setting"
-                        android:textSize="15sp"
+                        android:fontFamily="@font/josefinslabbold"
+                        android:textSize="20sp"
                         android:layout_gravity="center_horizontal"
                         android:textStyle="bold" />
                 </LinearLayout>

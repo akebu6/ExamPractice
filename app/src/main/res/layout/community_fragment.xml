@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".ui.fragment.community.CommunityFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/title"
+            android:gravity="center"
+            android:fontFamily="@font/monotonregular"
+            android:textSize="32sp"
+            android:textColor="@color/primary"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Exam Focus" />
+
+        <LinearLayout
+            android:id="@+id/emailID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:focusable="true">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/iv_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_email" />
+
+                <TextView
+                    android:id="@+id/tv_email"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:clickable="true"
+                    android:textSize="25sp"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/reeniebeanie"
+                    android:textColor="@color/primary"
+                    android:text="Send Us A Mail"
+                    app:layout_constraintBottom_toBottomOf="@+id/iv_email"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/iv_email"
+                    app:layout_constraintTop_toTopOf="@+id/iv_email"
+                    android:focusable="true" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:focusable="true">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/iv_help"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/contact_support" />
+
+                <TextView
+                    android:id="@+id/linkHelp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:clickable="true"
+                    android:textSize="25sp"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/reeniebeanie"
+                    android:textColor="@color/primary"
+                    android:text="Contact Help Center"
+                    app:layout_constraintBottom_toBottomOf="@+id/iv_help"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/iv_help"
+                    app:layout_constraintTop_toTopOf="@+id/iv_help"
+                    android:focusable="true" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/whatsapp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:focusable="true">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/iv_whatsapp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_people" />
+
+                <TextView
+                    android:id="@+id/linkWhatsapp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:clickable="true"
+                    android:textSize="25sp"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/reeniebeanie"
+                    android:textColor="@color/primary"
+                    android:text="Join Community"
+                    app:layout_constraintBottom_toBottomOf="@+id/iv_whatsapp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/iv_whatsapp"
+                    app:layout_constraintTop_toTopOf="@+id/iv_whatsapp"
+                    android:focusable="true" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/differentLinks"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="25dp"
+            android:focusable="true"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/jamb"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:textSize="25sp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/reeniebeanie"
+                android:textColor="@color/primary"
+                android:layout_weight="1"
+                android:text="Jamb Group" />
+
+            <TextView
+                android:id="@+id/postUtme"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:textSize="25sp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/reeniebeanie"
+                android:textColor="@color/primary"
+                android:layout_weight="1"
+                android:text="Post UTME Group" />
+
+            <TextView
+                android:id="@+id/waec"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:textSize="25sp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/reeniebeanie"
+                android:textColor="@color/primary"
+                android:layout_weight="1"
+                android:text="WAEC Group" />
+
+            <TextView
+                android:id="@+id/neco"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:textSize="25sp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/reeniebeanie"
+                android:textColor="@color/primary"
+                android:layout_weight="1"
+                android:text="NECO Group" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/reeniebeanie"
+            android:text="Version 1.0.5" />
+
+        <TextView
+            android:id="@+id/allRightReserve"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:fontFamily="@font/reeniebeanie"
+            android:text="All Right Reserved." />
+
+        <TextView
+            android:id="@+id/Powered"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:gravity="center"
+            android:fontFamily="@font/reeniebeanie"
+            android:text="Developed And Managed By Bayoku Tech." />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+<!--<LinearLayout-->
+<!--android:id="@+id/emailID"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_marginTop="15dp"-->
+<!--android:layout_marginBottom="5dp"-->
+<!--android:focusable="true">-->
+
+<!--<androidx.constraintlayout.widget.ConstraintLayout-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv_email"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintLeft_toLeftOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:srcCompat="@drawable/ic_email" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_email"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:clickable="true"-->
+<!--        android:textSize="25sp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:fontFamily="@font/reeniebeanie"-->
+<!--        android:textColor="@color/primary"-->
+<!--        android:text="bayokku@gmail.com"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/iv_email"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toEndOf="@+id/iv_email"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/iv_email"-->
+<!--        android:focusable="true" />-->
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
+
+<!--</LinearLayout>-->
+
+<!--<LinearLayout-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--app:layout_constraintEnd_toEndOf="parent"-->
+<!--android:layout_marginTop="20dp"-->
+<!--app:layout_constraintStart_toStartOf="parent"-->
+<!--app:layout_constraintTop_toTopOf="parent">-->
+
+<!--<androidx.constraintlayout.widget.ConstraintLayout-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv_whatssap"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintLeft_toLeftOf="parent"-->
+<!--        app:srcCompat="@drawable/ic_whatssap" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_whatssap"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="25sp"-->
+<!--        android:layout_marginTop="7dp"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:textColor="@color/primary"-->
+<!--        android:text="+2348024088573"-->
+<!--        android:fontFamily="@font/reeniebeanie"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/iv_whatssap"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toEndOf="@+id/iv_whatssap"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/iv_whatssap" />-->
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
+
+
+<!--</LinearLayout>-->
+
+<!--<LinearLayout-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--app:layout_constraintEnd_toEndOf="parent"-->
+<!--android:layout_marginTop="18dp"-->
+<!--app:layout_constraintStart_toStartOf="parent"-->
+<!--app:layout_constraintTop_toTopOf="parent">-->
+
+<!--<androidx.constraintlayout.widget.ConstraintLayout-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/link_forum"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintLeft_toLeftOf="parent"-->
+<!--        app:srcCompat="@drawable/ic_people" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/link"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:fontFamily="@font/reeniebeanie"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="25sp"-->
+<!--        android:layout_marginTop="6sp"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:textColorLink="@color/primary"-->
+<!--        android:text="@string/click_here_to_joint"                    android:textColor="#56BFE4"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/link_forum"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toEndOf="@+id/link_forum"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/link_forum" />-->
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
+
+
+<!--</LinearLayout>-->

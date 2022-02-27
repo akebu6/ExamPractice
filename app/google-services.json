@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158056646961",
+    "project_id": "exam-focus-96ed0",
+    "storage_bucket": "exam-focus-96ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158056646961:android:89a86b864e742812524810",
+        "android_client_info": {
+          "package_name": "com.myrabohuche.exampractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158056646961-it6nql31dfheu7gq8lf0ejsdk4eakudu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myrabohuche.exampractice",
+            "certificate_hash": "670f3d5b1372f465b370f2cef9eebbb33b850c32"
+          }
+        },
+        {
+          "client_id": "158056646961-0ifk17c54hq47t5ckmeofhhf6b5607bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTaDi8aZvIukXfRHGu4FRb9UxpF-HtYUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158056646961-0ifk17c54hq47t5ckmeofhhf6b5607bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

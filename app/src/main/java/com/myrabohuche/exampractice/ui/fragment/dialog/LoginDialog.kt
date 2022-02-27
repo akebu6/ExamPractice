@@ -67,7 +67,7 @@ class LoginDialog: DialogFragment() {
         pkNum = (pk!!.text.toString())
         val prefs: SharedPreferences = PreferenceHelper.defaultPrefs(requireContext())
         val pk = prefs["1", "wrongproductkey"]
-        Toast.makeText(context,"$pk", Toast.LENGTH_LONG).show()
+        //Toast.makeText(context,"$pk", Toast.LENGTH_LONG).show()
 
         if (getValidInput()) {
             loginUser(pkNum!!, pk!!)

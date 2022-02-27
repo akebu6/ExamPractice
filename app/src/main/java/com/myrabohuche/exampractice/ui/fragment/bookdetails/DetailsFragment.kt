@@ -1,15 +1,22 @@
 package com.myrabohuche.exampractice.ui.fragment.bookdetails
 
+import android.os.Build
 import android.os.Bundle
+import android.os.Handler
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
+import androidx.activity.OnBackPressedCallback
+import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
 import com.myrabohuche.exampractice.R
 import com.myrabohuche.exampractice.databinding.FragmentDetailsBinding
 import com.myrabohuche.exampractice.model.Book
 import com.myrabohuche.exampractice.model.Chapter
+import com.myrabohuche.exampractice.utils.*
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.io.InputStream
 import kotlinx.serialization.InternalSerializationApi
 import kotlinx.serialization.json.Json
@@ -50,6 +57,14 @@ class DetailsFragment : Fragment() {
                 display(generateBooksByChap())
             }
         }
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                if (isEnabled){
+                    findNavController().navigateUp()
+                    isEnabled=true
+                }
+            }
+        })
 
         return binding.root
     }
@@ -71,5 +86,6 @@ class DetailsFragment : Fragment() {
     private fun display(chapter: Chapter?) {
         binding.txtBody.text = chapter!!.text
         binding.txtChapTitle.text = chapter.chapIndex
+
     }
 }

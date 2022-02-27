@@ -2,6 +2,7 @@ package com.myrabohuche.exampractice.ui.fragment.home
 
 import android.os.Bundle
 import android.view.*
+import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
@@ -77,9 +78,18 @@ class HomeFragment : Fragment() {
         binding.libraryID.setOnClickListener {
             findNavController().navigate(R.id.action_homeFragment_to_libraryFragment)
         }
-        binding.syllabusID.setOnClickListener {
+        binding.communityID.setOnClickListener {
             findNavController().navigate(R.id.action_homeFragment_to_syllabusFragment)
         }
+
+        requireActivity().onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                isEnabled=true
+                requireActivity().finish()
+                //remove()
+            }
+
+        })
 
         return binding.root
     }

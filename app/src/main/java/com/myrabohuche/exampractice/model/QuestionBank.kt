@@ -10,6 +10,13 @@ class QuestionBank(val mQuestionList: List<Question>) {
             }
             return mQuestionList[mNextQuestionIndex++]
         }
+    val questionBack: Question
+        get() {
+            if (mNextQuestionIndex == mQuestionList.size) {
+                mNextQuestionIndex = 0
+            }
+            return mQuestionList[--mNextQuestionIndex]
+        }
 
     init {
         mQuestionList

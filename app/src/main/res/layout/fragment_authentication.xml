@@ -42,6 +42,8 @@ xmlns:tools="http://schemas.android.com/tools">
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="15dp"
+                android:fontFamily="@font/josefinslabbold"
+                android:textColor="@color/colorPrimary"
                 android:textSize="15dp"
                 android:text="Enter the below info to request for product key."/>
 
@@ -51,7 +53,7 @@ xmlns:tools="http://schemas.android.com/tools">
                 android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="12dp"
-                android:hint="SurName"
+                android:hint="Enter full name"
                 app:boxStrokeColor="@color/colorPrimary">
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -66,7 +68,7 @@ xmlns:tools="http://schemas.android.com/tools">
                 android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="12dp"
-                android:hint="Other Names"
+                android:hint="Enter referral name(optional)"
                 app:boxStrokeColor="@color/colorPrimary">
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -81,7 +83,7 @@ xmlns:tools="http://schemas.android.com/tools">
                 android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="12dp"
-                android:hint="Phone Number"
+                android:hint="Phone number"
                 app:boxStrokeColor="@color/colorPrimary">
 
                 <com.google.android.material.textfield.TextInputEditText

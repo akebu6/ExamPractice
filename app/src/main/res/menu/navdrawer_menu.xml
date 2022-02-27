@@ -11,19 +11,11 @@
         android:icon="@drawable/book"
         android:title="Library" />
     <item
-        android:id="@+id/whatssapFragment"
+        android:id="@+id/communityFragment"
         android:icon="@drawable/forum"
-        android:title="Whatssap Group"/>
-    <item
-        android:id="@+id/contactUsFragment"
-        android:icon="@drawable/contact"
-        android:title="Contact Us"/>
-    <item
-        android:id="@+id/shareAppFrag"
-        android:icon="@drawable/share"
-        android:title="Share"/>
-    <item
-        android:id="@+id/authenticationFragment"
-        android:icon="@drawable/share"
-        android:title="Product Key"/>
+        android:title="Forum" />
+<!--    <item-->
+<!--        android:id="@+id/paymentDetailsFragment"-->
+<!--        android:icon="@drawable/key"-->
+<!--        android:title="Product Key" />-->
 </menu>
