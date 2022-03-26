@@ -34,6 +34,8 @@
 * Navigation Components
 * Timber
 * Glide
+* Kotlin-serialization
+* Parcelables
 * e.t.c......
 
 ## Architecture
