@@ -6,22 +6,6 @@ apply plugin: "androidx.navigation.safeargs.kotlin"
 apply plugin: "kotlin-kapt"
 apply plugin: 'dagger.hilt.android.plugin'
 apply plugin: 'com.google.gms.google-services'
-//apply plugin: 'com.android.application'
-//apply plugin: 'kotlin-android'
-//apply plugin: 'kotlin-android-extensions'
-//apply plugin: 'kotlinx-serialization'
-//apply plugin: "androidx.navigation.safeargs.kotlin"
-//apply plugin: "kotlin-kapt"
-//apply plugin: 'dagger.hilt.android.plugin'
-//plugins {
-//    apply plugin: 'com.android.application'
-//    apply plugin: 'kotlin-android'
-//    apply plugin: 'kotlin-android-extensions'
-//    apply plugin: 'kotlinx-serialization'
-//    apply plugin: "androidx.navigation.safeargs.kotlin"
-//    apply plugin: "kotlin-kapt"
-//    apply plugin: 'dagger.hilt.android.plugin'
-//}
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
@@ -30,8 +14,8 @@ android {
         applicationId "com.myrabohuche.exampractice"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 5
-        versionName "1.0.5"
+        versionCode 6
+        versionName "1.0.6"
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
 

@@ -12,15 +12,17 @@ class LibraryViewModel : ViewModel() {
     private val viewModelJob = SupervisorJob()
 
     var books: List<Book> = arrayListOf(
-        Book( "Sweet Sixteen",
+        Book( "Life Changer",
             listOf(
-                Chapter("chapter 1 the letter", "THE LETTER"),
-                Chapter("chapter 2 the driver", "THE DRIVE"),
-                Chapter("chapter 3 the work", "THE WORK"),
-                Chapter("chapter 4 the test", "THE TEST"),
-                Chapter("chapter 5 dating", "DATING"),
-                Chapter("chapter 6 stereotype", "STEREOTYPE"),
-                Chapter("chapter 7 beauty", "BEAUTY"))),
+                Chapter("life changer chapter 1", ""),
+                Chapter("life changer chapter 2", ""),
+                Chapter("life changer chapter 3", ""),
+                Chapter("life changer chapter 4", ""),
+                Chapter("life changer chapter 5", ""),
+                Chapter("life changer chapter 6", ""),
+                Chapter("life changer chapter 7", ""),
+                Chapter("life changer chapter 8", ""),
+                Chapter("life changer chapter 9", ""))),
 
         Book( "JAMB Syllabus",
             listOf(
